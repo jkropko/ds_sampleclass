@@ -1,0 +1,2796 @@
+vote,age,marital,education,union,race,gender
+0,29,Married,HS diploma,0,White,Male
+0,26,Never married,College degree,0,White,Male
+1,58,Married,Less than HS,1,Black,Male
+0,56,No longer married,HS diploma,1,White,Female
+1,86,No longer married,Some college,0,White,Female
+0,67,Married,Some college,0,White,Male
+1,62,No longer married,Graduate degree,0,White,Female
+1,46,Married,Graduate degree,0,Hispanic,Male
+0,70,No longer married,College degree,0,White,Male
+1,30,Married,Graduate degree,0,White,Female
+0,32,Never married,Some college,0,White,Female
+1,56,Married,Some college,0,White,Female
+0,61,Married,Less than HS,0,Other,Male
+1,73,Married,Graduate degree,0,White,Male
+0,64,Married,College degree,0,White,Male
+0,73,Married,Some college,0,White,Female
+0,69,Married,College degree,0,White,Male
+1,67,No longer married,Graduate degree,0,White,Male
+0,54,Married,Some college,1,White,Male
+0,48,No longer married,Less than HS,0,Hispanic,Male
+1,26,Never married,Some college,0,Black,Female
+0,25,Never married,Some college,0,White,Female
+1,46,Never married,College degree,0,Black,Female
+0,59,Never married,Some college,1,White,Male
+0,39,Married,Some college,1,White,Female
+1,52,Married,College degree,0,White,Female
+0,46,No longer married,Some college,0,White,Male
+1,61,No longer married,Graduate degree,0,White,Female
+0,30,No longer married,Some college,0,White,Male
+0,55,Married,Some college,0,White,Male
+1,35,Married,Graduate degree,0,White,Female
+1,61,No longer married,College degree,0,Hispanic,Male
+1,52,Never married,College degree,1,White,Female
+1,68,No longer married,Some college,0,Black,Male
+1,76,No longer married,Some college,0,Black,Female
+1,47,No longer married,HS diploma,0,White,Female
+1,68,Married,Some college,0,White,Female
+1,45,Never married,Some college,0,White,Male
+1,50,No longer married,Less than HS,0,Hispanic,Female
+1,68,No longer married,Graduate degree,1,Black,Female
+1,60,Married,Some college,0,Other,Male
+1,36,No longer married,College degree,0,Hispanic,Female
+0,46,Married,Some college,0,White,Female
+1,35,Married,Some college,0,White,Male
+1,78,No longer married,HS diploma,0,Black,Female
+1,55,Married,HS diploma,1,White,Male
+1,69,Never married,College degree,0,Hispanic,Female
+1,55,No longer married,College degree,0,Black,Male
+1,68,Married,Graduate degree,0,White,Male
+0,42,Married,Graduate degree,1,White,Male
+0,82,No longer married,HS diploma,0,White,Female
+0,53,Married,Some college,0,White,Female
+0,65,No longer married,College degree,0,White,Male
+1,42,Married,Some college,0,Black,Female
+1,48,Married,HS diploma,1,Hispanic,Male
+1,30,Married,Some college,0,White,Male
+0,23,Married,College degree,0,Other,Female
+0,31,Never married,HS diploma,0,White,Female
+1,68,Married,Less than HS,0,Hispanic,Male
+0,29,Married,Some college,0,White,Female
+1,36,Married,College degree,0,White,Female
+1,47,Married,College degree,0,White,Female
+1,26,Never married,College degree,0,White,Female
+0,88,Married,Less than HS,0,White,Male
+0,83,No longer married,Less than HS,0,Other,Female
+1,36,Never married,HS diploma,0,White,Male
+0,58,Married,Some college,0,White,Female
+1,30,Never married,HS diploma,0,Hispanic,Male
+0,75,Never married,HS diploma,0,White,Female
+0,50,Married,HS diploma,0,White,Male
+0,27,Never married,Some college,0,White,Female
+0,69,No longer married,Some college,0,White,Female
+0,43,Married,Some college,0,Hispanic,Female
+1,33,Married,College degree,0,White,Female
+0,57,Married,Some college,0,White,Male
+0,38,Married,HS diploma,0,Hispanic,Female
+1,81,No longer married,HS diploma,0,White,Male
+1,75,No longer married,HS diploma,0,White,Female
+0,74,No longer married,Some college,0,White,Female
+1,43,Married,College degree,1,White,Male
+0,88,No longer married,Some college,0,White,Female
+0,57,No longer married,HS diploma,0,White,Female
+1,59,No longer married,Graduate degree,0,White,Female
+1,45,Married,College degree,0,White,Male
+0,30,Married,HS diploma,0,White,Male
+0,78,Married,HS diploma,0,White,Male
+1,72,No longer married,College degree,0,Black,Female
+1,36,Married,College degree,1,White,Male
+1,86,Married,Less than HS,0,White,Male
+1,55,Married,College degree,0,White,Male
+1,68,Married,HS diploma,0,Black,Male
+1,69,Married,College degree,0,White,Male
+0,62,No longer married,Some college,0,White,Female
+0,25,Never married,Some college,0,White,Male
+0,55,No longer married,Some college,0,Hispanic,Male
+1,76,Married,Graduate degree,0,White,Female
+1,31,Never married,College degree,0,White,Female
+0,52,Married,Less than HS,0,White,Male
+1,35,Married,College degree,0,Hispanic,Male
+1,25,Married,HS diploma,0,Black,Male
+0,73,No longer married,College degree,0,White,Female
+1,52,Never married,Graduate degree,1,White,Female
+0,66,Married,Some college,0,White,Female
+1,65,Married,Some college,0,White,Female
+0,45,Married,College degree,0,White,Female
+0,59,Never married,Some college,0,White,Male
+1,37,Married,Graduate degree,1,White,Female
+1,66,No longer married,HS diploma,0,White,Female
+0,74,No longer married,College degree,0,White,Male
+1,57,No longer married,HS diploma,0,Black,Female
+0,27,Married,HS diploma,1,White,Male
+1,24,Never married,Some college,1,White,Male
+0,43,No longer married,College degree,0,White,Male
+1,42,No longer married,HS diploma,1,Black,Female
+1,69,Married,Less than HS,0,Black,Male
+0,87,Married,HS diploma,1,White,Female
+0,56,Married,Some college,0,White,Male
+1,19,Never married,HS diploma,0,White,Female
+1,67,No longer married,Some college,0,White,Male
+1,23,Never married,Less than HS,0,Hispanic,Female
+1,41,Married,College degree,0,Other,Female
+0,49,Married,Some college,0,White,Male
+0,78,No longer married,Less than HS,0,White,Female
+0,53,Married,College degree,0,White,Male
+0,63,Married,Some college,0,White,Male
+0,65,Married,Some college,0,White,Female
+0,64,Never married,College degree,1,White,Female
+1,24,Never married,Graduate degree,0,White,Male
+1,50,Married,HS diploma,0,Black,Male
+0,44,Married,College degree,0,White,Female
+1,76,No longer married,Graduate degree,0,White,Female
+1,21,Never married,Some college,0,White,Female
+0,68,Married,HS diploma,0,White,Female
+1,35,No longer married,Graduate degree,0,Other,Female
+0,61,Married,Some college,0,White,Male
+1,25,Never married,College degree,0,White,Male
+0,67,Married,Some college,0,White,Male
+0,68,Married,Graduate degree,0,White,Female
+0,62,Married,Some college,0,White,Male
+0,69,Married,Graduate degree,0,White,Female
+0,85,No longer married,Graduate degree,0,White,Male
+0,26,No longer married,College degree,0,White,Male
+1,50,No longer married,College degree,0,Black,Female
+1,54,Married,Graduate degree,0,White,Female
+1,68,No longer married,Graduate degree,0,White,Female
+0,70,Married,Some college,0,White,Female
+0,57,Married,Graduate degree,0,White,Female
+0,59,No longer married,Less than HS,0,Other,Female
+1,76,No longer married,Some college,0,Hispanic,Female
+1,61,Married,HS diploma,1,Hispanic,Male
+1,20,Never married,Some college,0,Hispanic,Male
+0,62,Married,HS diploma,0,White,Male
+1,40,Married,Some college,0,White,Female
+1,24,Never married,College degree,1,Black,Male
+0,47,Married,College degree,0,White,Male
+0,61,Married,HS diploma,0,White,Male
+1,63,Married,Less than HS,0,Black,Female
+1,51,Never married,Graduate degree,0,Hispanic,Male
+0,50,Married,Some college,0,Other,Female
+1,60,No longer married,Some college,0,Black,Male
+1,63,Married,Some college,0,Hispanic,Female
+1,25,Never married,College degree,0,White,Female
+0,72,No longer married,College degree,0,Black,Female
+1,60,Married,Graduate degree,1,White,Female
+0,62,Married,HS diploma,0,White,Male
+0,80,Married,HS diploma,0,White,Male
+1,84,No longer married,Less than HS,1,White,Male
+1,22,Never married,HS diploma,0,White,Male
+1,26,Never married,Some college,0,Black,Female
+0,38,Married,HS diploma,1,White,Male
+0,77,Married,College degree,0,White,Female
+1,19,Never married,Some college,0,Black,Female
+0,59,Married,Some college,0,White,Female
+0,23,Married,Some college,0,White,Male
+1,26,Never married,Graduate degree,0,Hispanic,Female
+0,59,Married,HS diploma,1,White,Male
+1,77,No longer married,Less than HS,1,White,Male
+0,27,Never married,College degree,0,White,Male
+0,20,Never married,HS diploma,0,Hispanic,Female
+0,40,Married,Some college,0,White,Female
+1,49,Never married,HS diploma,0,Black,Female
+0,48,Married,Some college,0,White,Male
+1,24,Never married,HS diploma,0,White,Male
+1,56,Married,Less than HS,0,Hispanic,Male
+1,78,Married,HS diploma,0,White,Male
+0,24,Never married,Some college,0,White,Male
+0,63,No longer married,Some college,0,Hispanic,Female
+1,71,No longer married,College degree,0,Hispanic,Male
+0,30,Never married,College degree,0,White,Female
+0,42,Married,College degree,1,White,Female
+1,24,Never married,Less than HS,0,Black,Female
+1,25,Married,HS diploma,0,Black,Male
+0,60,Married,College degree,1,Hispanic,Male
+1,48,No longer married,College degree,0,White,Female
+1,39,Married,HS diploma,0,Hispanic,Male
+1,50,Married,College degree,0,White,Female
+1,36,Never married,HS diploma,1,White,Female
+1,58,Married,Graduate degree,0,White,Male
+1,30,Never married,Graduate degree,0,Other,Male
+1,52,Married,College degree,1,White,Female
+0,70,Married,College degree,0,Hispanic,Male
+0,41,Married,Some college,0,White,Male
+1,23,Never married,College degree,0,Black,Male
+0,46,Married,Some college,0,White,Male
+1,72,No longer married,Some college,0,Hispanic,Female
+1,59,No longer married,HS diploma,0,Black,Female
+1,35,Never married,Some college,0,White,Male
+1,55,Married,College degree,1,White,Female
+1,28,Never married,Some college,0,Other,Male
+1,58,No longer married,Graduate degree,1,White,Female
+0,60,No longer married,Some college,0,White,Female
+0,57,Married,College degree,0,White,Female
+0,87,Married,Some college,1,White,Male
+1,47,No longer married,HS diploma,0,Black,Female
+1,59,Married,College degree,0,White,Female
+1,48,Married,Graduate degree,0,White,Male
+1,47,No longer married,College degree,0,Other,Female
+0,24,Never married,Some college,0,White,Male
+0,45,Married,Graduate degree,1,White,Male
+1,60,Married,Graduate degree,0,White,Male
+0,66,Married,Less than HS,0,White,Female
+1,30,Married,Some college,0,White,Male
+0,70,Married,College degree,0,White,Female
+1,61,No longer married,Graduate degree,0,White,Male
+1,40,No longer married,Some college,0,Black,Female
+0,40,Married,Graduate degree,0,White,Male
+0,48,Married,Some college,0,White,Male
+1,59,Never married,Less than HS,0,Black,Male
+1,58,Married,Less than HS,0,Hispanic,Male
+1,37,Married,Graduate degree,1,White,Female
+1,36,Married,Graduate degree,0,White,Male
+0,41,Married,College degree,0,White,Male
+1,35,Married,College degree,0,White,Male
+1,75,Married,Some college,0,White,Male
+0,88,No longer married,HS diploma,0,White,Male
+1,50,Married,College degree,0,Black,Female
+0,59,No longer married,HS diploma,1,White,Female
+0,79,Married,HS diploma,0,White,Male
+1,76,No longer married,College degree,0,Black,Female
+0,48,Married,College degree,0,White,Female
+1,66,No longer married,Some college,0,Other,Female
+0,54,Married,Some college,0,White,Male
+0,26,Never married,Some college,0,White,Male
+0,66,No longer married,College degree,1,White,Female
+1,42,Married,Some college,0,Hispanic,Female
+1,33,Never married,College degree,1,Hispanic,Female
+0,21,Married,Less than HS,0,White,Male
+0,47,Married,Some college,1,White,Male
+1,52,Never married,Some college,1,White,Female
+1,35,Never married,College degree,0,Hispanic,Male
+0,55,No longer married,Some college,0,White,Male
+1,61,No longer married,College degree,0,White,Female
+1,36,No longer married,Some college,0,White,Female
+1,72,No longer married,Less than HS,0,White,Male
+1,80,No longer married,Some college,0,Other,Male
+1,52,No longer married,Some college,1,Hispanic,Male
+0,21,Never married,HS diploma,0,Hispanic,Female
+0,55,Married,Less than HS,0,White,Male
+1,47,Married,Graduate degree,0,White,Female
+0,85,No longer married,College degree,0,White,Female
+1,73,Married,Some college,1,White,Female
+1,27,Married,Some college,0,White,Female
+0,41,Married,HS diploma,0,White,Female
+0,27,Married,College degree,0,White,Male
+0,66,Married,Graduate degree,0,White,Male
+0,51,Married,Some college,0,White,Male
+0,34,No longer married,Some college,0,White,Male
+0,80,No longer married,College degree,0,Other,Male
+0,26,Never married,HS diploma,0,Other,Male
+0,48,Married,HS diploma,0,White,Female
+0,35,Married,College degree,0,White,Female
+0,76,Married,Some college,1,White,Female
+0,48,Married,Graduate degree,0,White,Female
+1,67,No longer married,College degree,0,Hispanic,Female
+0,27,Married,College degree,0,White,Male
+0,71,Married,Some college,0,White,Male
+1,36,Married,Graduate degree,0,White,Female
+1,35,Married,College degree,1,White,Male
+1,66,Married,College degree,0,White,Female
+0,49,Married,College degree,0,White,Female
+1,68,No longer married,HS diploma,1,Hispanic,Female
+0,63,Married,Some college,0,Hispanic,Male
+1,71,Married,Graduate degree,0,Other,Female
+1,55,No longer married,HS diploma,0,Black,Male
+0,69,Married,College degree,0,Other,Female
+1,26,Married,Some college,0,Black,Female
+0,66,No longer married,HS diploma,0,White,Female
+0,74,No longer married,College degree,0,White,Male
+1,40,No longer married,College degree,0,White,Female
+0,49,Married,HS diploma,0,White,Female
+0,59,Married,Some college,0,White,Male
+1,42,Married,Graduate degree,1,White,Female
+0,71,Married,Some college,0,White,Female
+1,73,No longer married,Some college,0,White,Female
+0,83,No longer married,HS diploma,0,White,Female
+0,40,Married,Some college,0,White,Female
+0,56,Never married,Graduate degree,0,Other,Male
+1,43,No longer married,College degree,0,Black,Female
+1,46,Never married,Graduate degree,1,White,Female
+0,21,Never married,HS diploma,0,Other,Male
+0,74,No longer married,Some college,0,White,Male
+1,61,No longer married,Some college,0,Black,Male
+1,67,No longer married,College degree,0,Black,Female
+1,65,No longer married,HS diploma,0,Black,Female
+0,66,Never married,HS diploma,0,White,Female
+1,54,Married,College degree,0,Hispanic,Male
+1,45,No longer married,Some college,0,White,Female
+1,40,Married,College degree,0,Hispanic,Male
+1,34,No longer married,Some college,0,Hispanic,Female
+0,71,No longer married,Graduate degree,0,Hispanic,Male
+1,34,Never married,Some college,0,White,Male
+0,68,Married,Some college,0,White,Male
+0,76,No longer married,HS diploma,0,White,Female
+1,69,No longer married,Graduate degree,1,White,Female
+0,68,No longer married,Some college,0,White,Female
+0,64,Married,College degree,0,White,Male
+0,52,No longer married,Some college,1,White,Male
+0,53,Married,College degree,0,White,Female
+1,43,Married,College degree,0,Hispanic,Male
+0,26,Never married,College degree,0,White,Female
+1,37,No longer married,HS diploma,0,White,Male
+1,74,Married,Graduate degree,1,White,Male
+0,21,Never married,Some college,0,Hispanic,Male
+0,42,Married,Some college,1,White,Female
+0,50,Married,Some college,1,White,Male
+0,45,Never married,Some college,0,White,Male
+0,60,Never married,Some college,0,White,Female
+0,53,Married,College degree,0,White,Female
+1,29,Married,College degree,0,White,Female
+1,53,No longer married,Some college,0,White,Female
+1,32,Married,College degree,0,Black,Female
+0,77,No longer married,College degree,1,White,Female
+1,26,Never married,HS diploma,0,Other,Female
+0,29,Married,College degree,0,White,Female
+0,62,No longer married,Some college,0,White,Female
+1,50,Married,Some college,0,Black,Male
+1,42,Married,Graduate degree,0,White,Male
+0,53,Married,College degree,1,White,Male
+1,65,Married,College degree,0,White,Female
+0,38,Married,College degree,0,White,Male
+0,71,No longer married,College degree,0,White,Female
+0,51,Married,Graduate degree,1,White,Male
+0,34,Married,HS diploma,0,White,Female
+0,53,No longer married,Some college,0,White,Male
+1,56,No longer married,Some college,0,Black,Male
+1,27,Never married,Some college,0,Black,Male
+1,66,Married,Some college,1,Hispanic,Male
+0,70,Married,Some college,0,White,Female
+1,79,Married,Graduate degree,0,White,Male
+1,63,No longer married,Less than HS,0,Hispanic,Female
+1,54,No longer married,Less than HS,0,Hispanic,Female
+1,23,Never married,College degree,0,White,Male
+1,46,Married,Some college,1,Black,Male
+0,33,Married,College degree,0,Hispanic,Male
+0,78,Married,Some college,0,White,Female
+1,70,Married,HS diploma,0,White,Female
+1,55,Married,Graduate degree,1,White,Male
+1,28,Never married,Less than HS,0,Hispanic,Male
+0,80,Married,Some college,0,White,Female
+1,60,Never married,College degree,0,Black,Female
+0,80,Married,Graduate degree,1,White,Male
+0,58,Married,Some college,0,White,Male
+0,23,Married,HS diploma,0,White,Female
+1,26,Never married,Some college,0,Other,Male
+1,45,Married,Some college,0,Hispanic,Male
+0,29,No longer married,Less than HS,0,Other,Female
+1,25,Never married,Some college,0,White,Male
+1,67,Never married,Some college,0,Black,Female
+1,36,Married,College degree,0,Other,Male
+0,24,No longer married,Some college,0,Other,Male
+0,52,Married,Some college,0,Hispanic,Male
+1,23,Never married,HS diploma,0,White,Female
+1,29,Never married,HS diploma,0,Black,Female
+1,46,Never married,Some college,0,Other,Female
+1,68,No longer married,Some college,0,Hispanic,Male
+0,39,No longer married,Some college,0,Other,Male
+1,34,Married,College degree,0,White,Female
+0,65,Married,Graduate degree,0,White,Female
+1,31,Never married,Some college,0,Black,Female
+0,65,Married,Some college,0,White,Female
+0,45,No longer married,Some college,0,White,Male
+1,57,No longer married,Some college,1,White,Female
+1,43,Never married,College degree,0,White,Male
+1,26,Never married,College degree,0,Other,Female
+1,43,Married,College degree,0,White,Female
+1,54,Married,Less than HS,0,Hispanic,Female
+0,45,Married,College degree,0,White,Male
+0,57,Married,HS diploma,0,White,Female
+1,60,No longer married,Some college,0,Black,Female
+0,75,No longer married,Less than HS,0,White,Male
+1,64,Never married,College degree,0,White,Male
+0,49,No longer married,College degree,0,White,Female
+1,29,Married,Graduate degree,0,White,Female
+0,49,Married,Some college,0,White,Male
+1,39,Never married,HS diploma,0,Black,Male
+0,62,Never married,Some college,0,White,Male
+1,57,Married,Some college,1,Black,Female
+1,24,Never married,College degree,0,Black,Male
+1,66,No longer married,HS diploma,0,Black,Male
+1,58,No longer married,Some college,0,White,Female
+0,59,Married,Some college,0,White,Female
+1,34,Never married,Some college,1,Black,Female
+0,44,Never married,College degree,0,White,Male
+0,24,Never married,College degree,0,White,Female
+1,51,Never married,Graduate degree,0,Black,Female
+0,62,No longer married,Some college,0,White,Male
+1,36,Married,Graduate degree,0,White,Female
+1,34,Married,HS diploma,0,White,Female
+1,51,Married,Graduate degree,0,White,Male
+0,53,No longer married,Some college,0,White,Female
+0,63,Married,Some college,0,Other,Male
+1,53,Married,Less than HS,1,Black,Male
+1,38,No longer married,Graduate degree,0,Other,Male
+1,42,Never married,Some college,1,Hispanic,Female
+0,45,Married,HS diploma,0,Other,Female
+0,41,Never married,Less than HS,0,White,Female
+1,51,No longer married,College degree,0,White,Female
+0,60,Never married,College degree,0,White,Female
+1,85,Married,HS diploma,0,White,Male
+0,56,No longer married,Less than HS,0,White,Male
+1,28,Never married,Graduate degree,0,Hispanic,Male
+0,52,No longer married,Some college,0,White,Female
+0,79,No longer married,Graduate degree,0,White,Male
+1,48,Never married,College degree,0,White,Male
+1,62,Married,Some college,0,Black,Male
+0,65,No longer married,Some college,0,White,Female
+1,52,Married,College degree,0,White,Female
+0,48,Married,Some college,0,White,Male
+1,87,No longer married,HS diploma,0,White,Female
+0,75,Married,Graduate degree,0,White,Male
+0,39,Married,Some college,0,White,Female
+1,81,Married,Graduate degree,0,White,Male
+1,26,No longer married,HS diploma,0,White,Female
+1,34,Married,Graduate degree,0,White,Male
+1,72,No longer married,Less than HS,0,Hispanic,Female
+0,70,No longer married,Graduate degree,0,White,Male
+1,68,Married,Graduate degree,0,White,Female
+1,53,Never married,Some college,0,White,Male
+1,35,Married,HS diploma,0,Other,Female
+1,57,Married,HS diploma,1,Hispanic,Male
+0,75,No longer married,HS diploma,0,White,Male
+0,57,Married,College degree,0,White,Female
+1,48,Married,Some college,1,Other,Female
+0,87,No longer married,Graduate degree,0,White,Male
+0,66,No longer married,HS diploma,0,White,Female
+1,36,Married,College degree,0,White,Female
+1,37,Married,Graduate degree,1,White,Male
+1,49,Married,Some college,0,Hispanic,Male
+0,54,Married,Graduate degree,0,White,Male
+0,35,Married,HS diploma,1,Hispanic,Male
+0,72,No longer married,Less than HS,0,White,Male
+0,82,No longer married,Graduate degree,0,White,Female
+1,59,Married,College degree,0,White,Female
+1,31,Never married,Some college,0,Hispanic,Female
+0,43,Married,Some college,0,Other,Male
+1,51,Married,College degree,1,White,Male
+0,31,Never married,Less than HS,0,Other,Male
+1,43,Never married,Some college,0,Black,Female
+0,54,No longer married,HS diploma,1,White,Male
+1,37,Married,College degree,1,White,Female
+0,68,No longer married,Graduate degree,0,White,Female
+1,67,Never married,College degree,1,Hispanic,Male
+0,50,No longer married,Graduate degree,0,White,Male
+1,37,Married,Graduate degree,0,Black,Male
+1,74,Never married,College degree,0,White,Male
+0,66,No longer married,College degree,1,White,Male
+0,47,No longer married,HS diploma,1,Hispanic,Male
+0,38,No longer married,HS diploma,0,White,Male
+1,68,Married,Less than HS,0,White,Male
+0,31,Never married,Some college,1,White,Male
+0,30,Married,Some college,0,White,Female
+1,30,Never married,Some college,0,Black,Male
+0,46,Married,College degree,0,White,Female
+0,59,No longer married,HS diploma,0,White,Female
+0,57,Married,Some college,0,White,Male
+1,67,No longer married,Graduate degree,0,White,Male
+1,40,No longer married,Some college,0,Black,Male
+1,77,Married,Graduate degree,0,White,Male
+0,47,Married,Some college,0,Other,Female
+1,75,Married,HS diploma,0,White,Female
+1,71,Married,Graduate degree,0,White,Male
+0,61,No longer married,HS diploma,0,White,Male
+1,27,Married,Some college,0,White,Female
+1,38,Never married,Some college,0,Black,Female
+1,39,No longer married,College degree,0,White,Female
+1,63,No longer married,Some college,1,White,Female
+0,18,Never married,Less than HS,0,White,Female
+0,66,No longer married,Some college,0,Hispanic,Male
+1,89,No longer married,Less than HS,0,Black,Female
+0,55,No longer married,Graduate degree,0,White,Female
+1,47,Married,Graduate degree,1,Black,Female
+0,66,No longer married,Less than HS,1,White,Male
+0,37,Married,Some college,0,White,Female
+0,83,No longer married,Graduate degree,0,White,Female
+0,22,Married,Some college,1,White,Female
+0,42,Married,Some college,0,White,Female
+1,27,Never married,Graduate degree,0,Black,Female
+1,79,No longer married,Some college,0,White,Female
+1,30,Married,Graduate degree,0,White,Female
+1,55,Married,HS diploma,0,Hispanic,Male
+1,22,Never married,HS diploma,0,Black,Female
+0,46,Married,HS diploma,0,White,Male
+0,35,Never married,Graduate degree,1,White,Male
+1,23,Never married,Some college,0,Other,Female
+0,26,No longer married,HS diploma,0,White,Female
+1,51,No longer married,Graduate degree,1,White,Female
+0,75,Married,HS diploma,0,White,Male
+1,67,No longer married,Some college,0,White,Female
+0,49,Married,HS diploma,0,White,Male
+1,75,No longer married,Some college,0,White,Female
+0,25,Never married,Some college,0,White,Male
+1,45,Married,Graduate degree,1,White,Female
+1,74,Married,Some college,0,White,Male
+0,62,Married,HS diploma,0,White,Female
+0,82,No longer married,Less than HS,0,White,Female
+1,20,Never married,Some college,0,White,Male
+0,61,Married,Graduate degree,1,White,Female
+1,56,Married,Some college,1,White,Male
+1,47,Married,Graduate degree,0,Other,Male
+0,28,Never married,Some college,0,White,Female
+1,49,No longer married,HS diploma,0,Hispanic,Female
+1,60,Married,Some college,0,White,Male
+1,33,Married,Graduate degree,0,White,Male
+1,52,Married,HS diploma,0,White,Male
+0,70,No longer married,Less than HS,0,White,Female
+0,60,No longer married,College degree,0,Hispanic,Female
+0,74,Married,HS diploma,0,White,Male
+0,46,Married,College degree,0,White,Male
+1,50,No longer married,Graduate degree,0,Black,Female
+0,59,Married,Some college,0,White,Male
+1,34,No longer married,Some college,0,Hispanic,Female
+1,37,Never married,HS diploma,0,Hispanic,Male
+1,62,No longer married,Some college,0,Black,Male
+1,45,No longer married,Some college,0,White,Female
+0,50,Married,HS diploma,0,White,Male
+1,56,Married,Graduate degree,1,Other,Male
+1,63,No longer married,HS diploma,0,White,Male
+1,85,No longer married,Some college,0,White,Female
+1,33,Married,Some college,0,Hispanic,Female
+0,26,Married,Some college,0,Hispanic,Male
+0,56,No longer married,HS diploma,0,White,Male
+0,68,Married,Graduate degree,0,White,Male
+0,46,Married,College degree,0,White,Female
+1,42,Married,HS diploma,0,Hispanic,Female
+1,51,No longer married,Some college,0,White,Male
+0,20,Never married,HS diploma,0,White,Male
+0,36,Married,College degree,0,White,Male
+0,28,No longer married,HS diploma,0,White,Female
+0,47,No longer married,Some college,0,White,Female
+1,47,Married,Graduate degree,0,White,Male
+1,68,No longer married,Graduate degree,0,White,Female
+0,37,Married,Some college,0,White,Female
+1,53,No longer married,Less than HS,0,Black,Female
+1,32,Married,College degree,0,White,Female
+1,53,Never married,Less than HS,0,Black,Male
+1,67,Married,Graduate degree,1,White,Male
+1,53,No longer married,HS diploma,0,Hispanic,Female
+1,41,Married,HS diploma,0,White,Female
+1,54,No longer married,Some college,0,Black,Female
+1,47,Married,Some college,0,White,Male
+1,80,Married,Graduate degree,0,White,Male
+0,63,Married,College degree,0,Hispanic,Male
+0,82,No longer married,HS diploma,0,White,Female
+0,49,No longer married,College degree,0,White,Male
+1,33,Married,Graduate degree,1,White,Female
+0,81,No longer married,HS diploma,0,White,Male
+1,64,Married,Some college,0,White,Male
+0,30,Married,College degree,0,White,Female
+0,62,No longer married,Some college,0,White,Female
+0,31,Married,Some college,0,White,Female
+1,42,Never married,Graduate degree,0,White,Female
+1,23,Never married,Some college,0,Hispanic,Male
+1,21,Never married,Some college,0,Hispanic,Male
+1,44,Never married,College degree,0,Hispanic,Male
+0,51,Married,Some college,0,Hispanic,Female
+1,59,No longer married,College degree,0,White,Female
+0,77,Married,Graduate degree,0,Other,Male
+1,68,No longer married,Some college,0,White,Female
+1,65,No longer married,HS diploma,1,White,Male
+0,49,No longer married,Some college,1,White,Female
+0,85,Married,HS diploma,0,White,Male
+1,58,Married,Graduate degree,1,White,Male
+1,37,Married,Some college,0,White,Male
+1,66,Married,Less than HS,1,White,Male
+1,53,Married,College degree,0,White,Male
+0,46,Married,College degree,0,White,Female
+1,53,Married,Some college,0,White,Male
+0,46,Never married,College degree,1,White,Female
+1,67,No longer married,Some college,0,Black,Female
+0,65,Married,HS diploma,0,White,Female
+1,45,Married,College degree,0,Black,Male
+0,18,Never married,Less than HS,0,White,Male
+0,33,Married,College degree,1,White,Male
+1,24,Never married,Some college,0,Hispanic,Male
+0,29,Married,Some college,0,White,Male
+1,49,Never married,Graduate degree,0,White,Male
+0,47,Married,College degree,0,White,Male
+0,53,No longer married,Some college,0,White,Female
+1,47,No longer married,Some college,0,Black,Female
+1,71,Married,Some college,0,White,Female
+1,59,Never married,Some college,0,Other,Female
+0,48,No longer married,College degree,0,White,Female
+1,58,No longer married,Some college,0,Other,Female
+1,36,Married,Less than HS,0,Hispanic,Male
+0,47,Never married,College degree,0,White,Female
+0,31,Married,College degree,0,White,Female
+1,72,No longer married,Some college,0,Black,Female
+0,54,Never married,Some college,0,White,Female
+0,38,Married,Some college,1,White,Female
+0,47,No longer married,Some college,0,White,Female
+1,43,Never married,Some college,0,Black,Female
+0,43,No longer married,HS diploma,0,White,Female
+1,20,Never married,HS diploma,1,White,Male
+1,24,Never married,College degree,0,White,Male
+1,80,Married,College degree,0,White,Female
+0,64,Married,College degree,0,White,Male
+0,35,Never married,Less than HS,0,Hispanic,Male
+1,46,Married,Graduate degree,1,White,Male
+0,73,Married,Some college,0,White,Male
+1,70,Married,Some college,0,White,Male
+1,53,Never married,Graduate degree,1,Hispanic,Female
+0,79,Married,HS diploma,0,White,Female
+0,42,Married,Some college,0,White,Female
+0,60,Married,HS diploma,0,White,Male
+1,76,Married,Some college,0,White,Male
+1,70,Married,HS diploma,0,Hispanic,Male
+0,66,Married,College degree,0,White,Female
+0,46,Never married,Less than HS,0,White,Female
+0,68,Married,Some college,0,White,Male
+1,25,Never married,College degree,0,Black,Female
+0,71,Married,HS diploma,1,White,Male
+1,37,Married,Some college,0,White,Female
+1,41,No longer married,HS diploma,0,Other,Female
+1,20,Never married,Some college,0,Hispanic,Female
+0,59,Married,Graduate degree,0,White,Female
+1,23,Never married,College degree,1,White,Male
+0,62,No longer married,College degree,0,White,Male
+1,41,No longer married,HS diploma,1,Black,Female
+1,74,Married,Graduate degree,1,White,Female
+0,40,Married,Graduate degree,0,White,Male
+0,58,No longer married,HS diploma,0,Hispanic,Male
+1,68,Never married,Graduate degree,0,White,Female
+0,32,Married,Some college,0,White,Male
+1,78,No longer married,Less than HS,0,White,Female
+1,45,Married,College degree,0,Black,Male
+1,44,No longer married,Some college,0,Black,Female
+1,34,No longer married,Some college,0,White,Female
+1,59,Married,Less than HS,0,Hispanic,Female
+1,28,Married,Graduate degree,0,Other,Male
+0,33,Married,College degree,0,White,Male
+0,37,Married,College degree,0,White,Male
+0,68,Married,Some college,0,White,Male
+0,74,Married,Less than HS,0,White,Female
+1,36,Never married,Some college,0,Hispanic,Female
+1,52,Never married,Some college,0,White,Male
+0,24,Married,HS diploma,0,Hispanic,Male
+1,62,Married,HS diploma,0,White,Male
+1,73,Married,College degree,0,White,Male
+1,18,Never married,Some college,0,White,Female
+1,53,No longer married,Graduate degree,0,White,Female
+0,33,Married,Some college,0,White,Male
+0,79,No longer married,Less than HS,0,White,Male
+1,68,Married,College degree,0,White,Female
+0,29,No longer married,Some college,1,White,Female
+1,80,No longer married,HS diploma,0,White,Female
+0,72,Married,Some college,0,White,Female
+1,46,Never married,Less than HS,0,White,Female
+1,60,Married,Less than HS,0,Black,Male
+0,49,Married,College degree,0,White,Female
+1,38,No longer married,Some college,0,Hispanic,Female
+1,69,Never married,Some college,0,White,Female
+1,28,Never married,College degree,0,White,Male
+0,52,Married,College degree,0,White,Male
+0,45,Married,College degree,0,White,Male
+0,32,Never married,Some college,0,Hispanic,Male
+0,80,Married,College degree,0,White,Male
+1,36,Married,Graduate degree,0,White,Female
+1,18,Never married,Some college,0,Hispanic,Male
+1,40,No longer married,HS diploma,0,Black,Male
+0,18,Never married,HS diploma,1,White,Male
+0,22,Never married,HS diploma,0,White,Male
+0,66,Married,College degree,0,White,Female
+0,70,Married,HS diploma,0,White,Female
+0,54,No longer married,HS diploma,0,White,Female
+1,20,Never married,HS diploma,0,Black,Male
+1,49,Married,College degree,0,White,Male
+0,55,No longer married,Less than HS,0,Other,Male
+0,67,Married,Graduate degree,0,White,Male
+1,29,Married,College degree,0,Black,Male
+1,55,Married,Some college,1,White,Female
+0,64,No longer married,College degree,0,White,Female
+0,34,Married,Some college,0,White,Female
+1,72,Married,HS diploma,0,Black,Female
+1,71,Never married,Some college,0,White,Female
+0,75,Married,Some college,0,White,Male
+1,21,Never married,Some college,0,Hispanic,Female
+0,46,Married,HS diploma,0,White,Male
+1,57,No longer married,HS diploma,0,Hispanic,Female
+0,24,Never married,Some college,0,White,Female
+1,85,Never married,HS diploma,1,White,Male
+0,56,No longer married,HS diploma,0,White,Female
+0,38,Married,Some college,1,White,Male
+0,30,Married,Some college,0,White,Female
+1,41,Married,Graduate degree,1,White,Female
+1,50,Married,Less than HS,0,Black,Male
+1,44,Married,Some college,0,White,Female
+1,27,Married,College degree,1,White,Female
+1,41,Never married,Some college,0,Black,Female
+1,50,No longer married,Some college,1,Black,Female
+0,68,Married,Some college,0,White,Male
+0,71,Married,HS diploma,0,White,Male
+0,67,Married,HS diploma,0,White,Female
+1,25,Married,Some college,0,Hispanic,Female
+1,38,No longer married,Some college,0,White,Female
+1,81,No longer married,Graduate degree,0,White,Male
+1,64,Married,Less than HS,1,White,Male
+0,68,Married,Graduate degree,0,White,Male
+1,29,Married,HS diploma,0,Black,Female
+1,59,No longer married,Some college,1,White,Female
+0,25,Married,Some college,0,White,Male
+1,52,No longer married,Some college,0,Other,Female
+1,37,Married,Graduate degree,0,White,Male
+0,50,Married,Some college,0,White,Female
+0,76,No longer married,Some college,0,White,Female
+0,19,Never married,Some college,0,White,Female
+1,52,Married,Graduate degree,1,White,Female
+1,66,Married,Graduate degree,0,White,Female
+1,51,Married,Some college,1,White,Male
+1,20,Never married,Some college,1,Hispanic,Female
+1,41,No longer married,HS diploma,0,White,Male
+1,25,Never married,College degree,0,White,Male
+0,60,Married,HS diploma,0,White,Female
+1,64,Married,Some college,0,White,Female
+1,36,Married,College degree,0,Black,Female
+0,62,No longer married,HS diploma,0,Other,Male
+0,59,Married,College degree,0,White,Male
+0,55,No longer married,Some college,0,White,Female
+0,34,Married,Graduate degree,0,White,Female
+0,59,Married,Some college,0,White,Male
+1,34,Married,Some college,0,Black,Male
+1,63,Married,Graduate degree,0,White,Female
+0,45,Married,Some college,0,White,Male
+0,55,Married,Some college,0,Other,Male
+0,57,Married,College degree,0,White,Female
+1,58,Married,Some college,0,White,Male
+0,52,Married,HS diploma,0,White,Female
+1,65,No longer married,Some college,0,Black,Female
+0,57,Married,College degree,0,White,Male
+0,69,Married,Some college,0,White,Male
+0,22,Never married,Some college,0,White,Female
+1,55,Married,Graduate degree,1,White,Female
+1,46,No longer married,Some college,0,Black,Female
+1,46,Married,Graduate degree,1,White,Female
+0,73,No longer married,Less than HS,0,White,Female
+0,70,No longer married,Some college,0,White,Male
+1,79,No longer married,Less than HS,0,White,Male
+1,32,Never married,College degree,1,White,Female
+0,61,No longer married,Some college,0,White,Male
+1,67,No longer married,HS diploma,0,White,Male
+1,44,Never married,College degree,0,Black,Female
+1,55,Married,Some college,0,Black,Female
+1,30,Never married,HS diploma,0,Black,Female
+0,64,Married,Less than HS,0,White,Male
+1,46,Married,HS diploma,0,White,Female
+1,53,Married,College degree,0,Hispanic,Female
+1,23,Never married,Some college,0,White,Male
+1,74,No longer married,Some college,0,White,Female
+0,77,Married,Some college,0,White,Female
+1,22,Never married,Graduate degree,0,White,Female
+0,20,Never married,Some college,0,White,Female
+0,46,Married,Graduate degree,0,White,Male
+0,33,Never married,College degree,0,White,Male
+1,28,No longer married,Some college,0,Black,Female
+0,54,No longer married,Some college,0,Other,Female
+1,60,No longer married,Some college,0,White,Female
+0,40,Married,Graduate degree,0,Hispanic,Female
+0,44,Married,Some college,0,White,Male
+1,19,Never married,Some college,0,Hispanic,Female
+0,79,Married,College degree,0,White,Male
+0,46,Married,Some college,0,White,Male
+0,63,Married,HS diploma,0,White,Male
+0,30,Never married,College degree,0,White,Male
+1,65,No longer married,HS diploma,0,White,Female
+1,39,Married,Some college,0,Other,Male
+0,44,Married,Some college,0,White,Male
+0,54,No longer married,Some college,0,White,Female
+1,36,Married,HS diploma,0,White,Female
+1,70,No longer married,Some college,0,White,Female
+0,66,Married,Graduate degree,0,White,Male
+0,68,No longer married,College degree,0,Other,Male
+1,47,Married,Some college,1,White,Male
+0,38,Married,Some college,0,White,Female
+0,19,Never married,Some college,0,White,Male
+1,69,Married,Graduate degree,0,White,Female
+1,55,Married,Graduate degree,0,Other,Male
+1,73,No longer married,Graduate degree,0,White,Female
+1,39,Married,College degree,0,White,Female
+0,73,Married,Some college,0,White,Male
+0,53,Married,HS diploma,0,Other,Male
+1,65,Married,Graduate degree,0,White,Female
+1,66,No longer married,Some college,0,Black,Male
+0,28,Married,Some college,0,White,Female
+0,55,Married,HS diploma,0,White,Female
+1,70,No longer married,Some college,0,Black,Female
+1,34,Married,Some college,0,Other,Female
+1,77,Married,Graduate degree,0,White,Male
+0,58,No longer married,College degree,0,White,Female
+1,50,Married,Graduate degree,1,White,Male
+1,50,Married,Some college,0,White,Female
+1,69,Married,Some college,0,White,Male
+1,50,Married,Graduate degree,0,Other,Male
+0,64,Never married,College degree,0,White,Male
+0,41,Married,College degree,0,White,Female
+0,61,Married,College degree,0,White,Male
+0,34,Married,HS diploma,0,White,Male
+1,55,Married,College degree,0,Other,Female
+0,66,Married,Less than HS,0,White,Female
+1,42,Married,Graduate degree,0,White,Male
+1,37,Married,College degree,0,White,Female
+0,59,No longer married,Some college,0,White,Female
+1,27,Never married,Graduate degree,0,White,Male
+1,67,No longer married,Some college,0,White,Female
+1,49,No longer married,Graduate degree,0,Hispanic,Female
+1,34,Never married,HS diploma,0,Hispanic,Female
+0,34,Married,Graduate degree,1,White,Female
+1,28,Never married,Some college,0,Black,Female
+1,54,Married,Graduate degree,0,White,Female
+1,33,Married,HS diploma,0,Hispanic,Female
+1,41,Married,College degree,0,White,Female
+0,78,Married,College degree,0,White,Female
+0,61,Married,Some college,0,Other,Female
+0,28,Married,College degree,1,White,Male
+0,32,Married,College degree,0,White,Male
+0,38,Married,HS diploma,1,White,Male
+0,32,Never married,College degree,0,White,Male
+1,47,Married,College degree,1,White,Female
+1,47,Never married,College degree,0,Hispanic,Female
+0,64,Married,Some college,0,White,Male
+0,56,No longer married,HS diploma,1,White,Female
+1,46,Married,HS diploma,0,Hispanic,Male
+1,68,No longer married,Some college,0,White,Female
+1,60,No longer married,College degree,0,White,Female
+0,66,Married,Graduate degree,0,White,Female
+1,86,No longer married,College degree,0,White,Female
+0,89,Never married,Graduate degree,0,White,Male
+1,36,Married,Graduate degree,0,Other,Male
+1,65,Married,Some college,0,White,Female
+1,44,Married,College degree,0,White,Male
+1,75,Married,Graduate degree,1,White,Female
+1,69,Never married,College degree,0,White,Male
+1,72,No longer married,Some college,1,White,Male
+0,47,No longer married,Some college,0,White,Male
+0,43,Married,College degree,0,White,Female
+0,31,Married,Graduate degree,0,White,Male
+0,74,Married,Some college,1,White,Female
+1,39,No longer married,College degree,0,Black,Female
+1,34,No longer married,HS diploma,0,White,Male
+1,63,Married,College degree,0,White,Male
+1,61,Never married,HS diploma,0,White,Male
+1,39,Never married,Graduate degree,1,White,Female
+1,48,Never married,College degree,0,Black,Female
+1,35,Married,College degree,0,White,Male
+0,64,Married,HS diploma,0,White,Female
+0,21,Never married,Less than HS,0,White,Female
+0,37,Married,HS diploma,0,Other,Female
+1,64,Married,Graduate degree,0,White,Male
+0,64,No longer married,Graduate degree,0,Other,Female
+1,61,Married,HS diploma,0,White,Female
+1,36,Never married,Graduate degree,1,Black,Male
+0,67,Married,College degree,0,White,Male
+0,82,Married,Some college,0,White,Female
+0,45,Married,HS diploma,0,White,Female
+0,33,Never married,Some college,0,Hispanic,Male
+1,59,No longer married,Graduate degree,0,White,Male
+1,57,No longer married,HS diploma,0,Black,Female
+1,84,No longer married,Some college,0,White,Female
+0,64,Married,Some college,0,White,Female
+0,66,No longer married,College degree,0,White,Male
+0,56,Married,Some college,0,White,Female
+1,20,Never married,HS diploma,0,White,Female
+0,49,Married,Graduate degree,0,White,Male
+0,60,No longer married,College degree,0,White,Male
+1,44,Never married,HS diploma,0,White,Male
+0,65,Married,College degree,1,White,Female
+0,35,Never married,Some college,0,White,Male
+1,48,Married,College degree,0,Hispanic,Female
+1,62,Married,Less than HS,0,Hispanic,Female
+0,66,Never married,College degree,0,White,Female
+1,69,Married,College degree,0,White,Female
+0,68,No longer married,Some college,0,White,Male
+0,73,No longer married,Less than HS,1,White,Female
+0,58,No longer married,Some college,0,White,Male
+0,54,No longer married,Some college,0,White,Female
+0,50,Married,HS diploma,1,White,Female
+0,69,Married,Some college,0,Hispanic,Male
+1,56,Married,Some college,0,Black,Female
+1,53,Married,Graduate degree,0,White,Male
+1,60,Married,College degree,1,Black,Female
+1,58,No longer married,Some college,0,Hispanic,Female
+1,31,Married,College degree,0,Other,Male
+0,33,Married,Some college,0,White,Male
+0,48,Never married,Graduate degree,0,White,Male
+0,46,Married,College degree,0,Other,Female
+1,32,Married,Some college,0,Black,Male
+1,35,Never married,College degree,0,White,Male
+1,80,No longer married,Some college,0,White,Female
+0,31,Married,Some college,1,White,Female
+1,65,No longer married,HS diploma,0,Other,Female
+1,40,Married,College degree,0,Black,Male
+0,58,No longer married,Less than HS,0,White,Male
+0,43,Married,Graduate degree,0,White,Male
+1,36,Never married,HS diploma,0,White,Male
+0,49,Married,Graduate degree,0,White,Male
+0,20,Never married,Some college,0,White,Male
+0,56,Married,Some college,0,White,Male
+1,19,Never married,Some college,0,Hispanic,Male
+1,39,Married,Graduate degree,0,White,Female
+0,59,Married,Graduate degree,0,White,Male
+1,41,Married,Graduate degree,0,White,Female
+0,39,Married,Graduate degree,0,White,Female
+1,33,Married,Some college,0,Black,Male
+1,35,No longer married,College degree,0,White,Female
+0,59,No longer married,HS diploma,0,White,Male
+0,85,No longer married,Some college,0,White,Male
+0,74,Married,HS diploma,0,White,Male
+1,31,Married,Some college,0,White,Female
+1,21,Married,Some college,0,Hispanic,Male
+0,68,Married,College degree,0,White,Male
+0,56,Married,Graduate degree,0,White,Female
+1,32,Married,College degree,0,White,Female
+1,63,Married,Graduate degree,0,White,Male
+1,40,No longer married,HS diploma,0,Other,Female
+0,55,Married,HS diploma,0,White,Female
+0,69,Married,Less than HS,0,White,Male
+1,86,No longer married,HS diploma,0,Black,Female
+0,80,Married,HS diploma,0,White,Female
+1,61,No longer married,Some college,0,White,Female
+1,63,No longer married,HS diploma,0,Black,Male
+1,71,Married,Some college,0,White,Male
+1,61,Married,Some college,0,Other,Female
+0,62,No longer married,HS diploma,0,White,Male
+0,71,Married,College degree,0,White,Male
+1,34,Married,Graduate degree,1,White,Female
+1,61,Never married,College degree,0,White,Male
+0,49,Never married,College degree,0,White,Female
+0,61,No longer married,HS diploma,0,Other,Female
+0,39,Married,College degree,0,White,Male
+1,20,Never married,Some college,0,White,Female
+1,30,Never married,Some college,0,Black,Female
+0,72,No longer married,College degree,0,White,Male
+1,76,Married,College degree,0,White,Male
+1,41,Married,Some college,0,Black,Male
+1,50,Married,Graduate degree,0,Black,Female
+1,73,No longer married,Some college,0,White,Female
+0,67,Married,College degree,0,Other,Male
+1,24,Never married,College degree,0,White,Male
+0,59,Married,Some college,0,White,Female
+0,34,No longer married,HS diploma,0,White,Female
+1,57,Married,Some college,0,White,Male
+1,35,No longer married,College degree,0,White,Female
+1,67,Married,College degree,1,Other,Female
+1,21,Never married,HS diploma,0,White,Female
+1,20,Never married,Some college,0,Hispanic,Female
+1,40,No longer married,College degree,0,White,Female
+0,58,No longer married,Some college,0,White,Female
+0,81,No longer married,HS diploma,0,White,Female
+1,61,No longer married,Some college,0,Black,Female
+1,55,No longer married,HS diploma,0,White,Female
+0,40,Married,Some college,0,White,Female
+0,62,Married,Some college,0,White,Female
+1,36,Married,College degree,0,White,Female
+1,25,Never married,College degree,0,Black,Male
+1,71,No longer married,HS diploma,0,White,Female
+0,63,Married,Some college,0,White,Male
+0,20,Never married,HS diploma,0,White,Female
+0,32,Never married,Some college,0,White,Male
+1,39,Married,Graduate degree,1,Other,Female
+0,52,Married,Some college,0,White,Female
+1,65,No longer married,Graduate degree,1,Black,Female
+1,21,Never married,Some college,0,Other,Female
+0,60,Married,Some college,0,White,Female
+0,63,Married,HS diploma,0,White,Female
+0,57,Married,Some college,1,White,Female
+1,51,Never married,HS diploma,0,Hispanic,Female
+1,67,Married,College degree,0,White,Male
+1,29,Never married,College degree,1,White,Female
+0,66,Married,HS diploma,0,White,Male
+0,61,Never married,College degree,0,White,Male
+1,21,Never married,Some college,1,Hispanic,Female
+0,35,Married,HS diploma,1,White,Male
+0,30,Married,Some college,0,White,Male
+0,88,Married,Graduate degree,0,White,Male
+0,57,Married,Some college,1,White,Female
+1,64,Married,College degree,0,White,Female
+0,63,No longer married,Some college,0,White,Male
+1,41,Married,College degree,0,White,Female
+0,62,Married,College degree,1,White,Female
+1,83,Married,Less than HS,0,Black,Male
+0,49,Married,Some college,0,Hispanic,Male
+0,65,Married,Some college,0,White,Male
+1,37,Married,College degree,0,White,Female
+1,56,Married,College degree,1,White,Female
+1,53,Married,College degree,0,White,Female
+0,60,Married,Graduate degree,0,White,Male
+0,46,Married,Some college,0,White,Female
+1,33,Married,College degree,1,White,Female
+0,72,Married,Graduate degree,0,White,Female
+0,71,Married,Some college,0,White,Female
+0,37,Married,Graduate degree,0,White,Male
+1,69,Married,College degree,0,White,Female
+1,21,Never married,Some college,0,Other,Female
+1,45,No longer married,HS diploma,0,Hispanic,Male
+0,40,Married,Some college,0,Hispanic,Female
+1,49,Never married,Some college,0,Black,Female
+0,57,Married,College degree,1,White,Male
+1,25,Never married,College degree,0,White,Female
+1,33,Never married,HS diploma,0,Hispanic,Male
+1,41,No longer married,College degree,1,White,Female
+1,67,Never married,Graduate degree,0,White,Female
+0,27,Never married,College degree,0,White,Male
+1,47,No longer married,Some college,0,White,Female
+0,35,Never married,HS diploma,0,Other,Male
+1,53,Married,College degree,0,Other,Female
+1,62,Married,HS diploma,1,White,Female
+0,25,Never married,Some college,0,White,Male
+1,72,Married,Graduate degree,0,White,Female
+0,22,Never married,HS diploma,0,White,Male
+1,45,Never married,Some college,0,Hispanic,Female
+0,52,Married,Some college,0,Other,Female
+1,49,No longer married,Graduate degree,0,Hispanic,Female
+1,18,Never married,HS diploma,0,Hispanic,Female
+1,50,Married,College degree,0,White,Male
+1,41,No longer married,Some college,0,White,Female
+1,31,Married,Graduate degree,0,White,Male
+0,58,Never married,Some college,1,White,Male
+1,68,No longer married,Graduate degree,0,White,Female
+0,60,No longer married,College degree,1,White,Male
+1,47,Married,Graduate degree,1,Black,Male
+0,64,No longer married,College degree,0,White,Male
+0,28,Never married,College degree,0,White,Female
+0,74,Married,Graduate degree,0,White,Female
+0,71,No longer married,HS diploma,0,White,Male
+0,54,Never married,Some college,0,White,Male
+0,39,No longer married,College degree,0,White,Male
+1,68,Married,HS diploma,0,Hispanic,Male
+0,43,Married,College degree,0,White,Female
+1,36,Never married,Some college,1,Other,Female
+1,58,No longer married,Some college,0,White,Female
+1,82,Never married,College degree,0,White,Female
+1,53,Never married,Graduate degree,0,White,Male
+0,34,Never married,Some college,0,White,Female
+0,56,Married,HS diploma,0,White,Male
+0,72,Married,HS diploma,0,White,Female
+0,54,No longer married,HS diploma,0,White,Female
+0,73,Married,Less than HS,0,White,Female
+0,68,No longer married,Graduate degree,0,White,Male
+0,84,No longer married,HS diploma,0,White,Female
+1,35,No longer married,Some college,0,White,Female
+1,38,Never married,HS diploma,0,Black,Male
+1,52,No longer married,HS diploma,0,White,Female
+1,48,Married,Graduate degree,1,White,Female
+0,65,Married,Graduate degree,0,White,Female
+1,55,No longer married,HS diploma,0,Hispanic,Female
+0,46,Married,Some college,0,White,Female
+1,54,Married,Graduate degree,1,White,Male
+1,49,No longer married,Some college,0,White,Female
+1,32,Married,College degree,0,Black,Female
+1,31,Never married,HS diploma,0,Black,Male
+1,67,Married,Graduate degree,0,White,Male
+0,34,Never married,College degree,0,Hispanic,Male
+0,55,Married,College degree,0,White,Male
+0,54,Married,HS diploma,1,White,Male
+0,56,Married,HS diploma,0,White,Female
+0,78,Married,Graduate degree,0,White,Male
+0,27,No longer married,HS diploma,0,White,Female
+0,21,Never married,Some college,0,White,Female
+0,78,No longer married,Less than HS,0,White,Female
+0,83,No longer married,HS diploma,0,White,Female
+1,57,Married,Graduate degree,0,White,Female
+1,56,Married,College degree,0,White,Female
+0,29,Married,College degree,0,White,Male
+0,77,No longer married,College degree,0,White,Male
+0,20,Never married,HS diploma,0,White,Male
+0,51,Married,Some college,0,White,Male
+1,87,Married,Some college,0,Hispanic,Male
+1,36,Married,Graduate degree,0,White,Male
+0,35,Married,Some college,1,White,Male
+1,28,Married,Graduate degree,0,White,Female
+1,29,Married,College degree,0,Other,Female
+0,48,No longer married,Some college,0,Black,Female
+0,81,Married,Some college,0,White,Male
+1,47,Married,Graduate degree,0,Other,Female
+1,30,Married,Graduate degree,0,White,Female
+1,37,Married,Graduate degree,0,White,Female
+1,31,Married,College degree,0,White,Male
+1,51,Married,HS diploma,0,White,Male
+0,32,Married,College degree,0,White,Male
+1,32,Never married,Some college,0,Black,Female
+1,48,No longer married,Some college,0,White,Female
+0,56,No longer married,Some college,0,White,Female
+0,51,Married,Graduate degree,0,White,Male
+0,43,Married,Some college,0,White,Female
+0,78,No longer married,Some college,0,White,Male
+1,64,No longer married,Graduate degree,0,White,Male
+1,34,Married,Graduate degree,0,Hispanic,Male
+1,57,Married,HS diploma,0,White,Female
+1,46,Married,Some college,1,White,Female
+1,68,Married,Some college,0,White,Female
+0,51,Married,Some college,0,White,Male
+0,53,Married,Some college,1,White,Male
+0,53,Never married,College degree,0,White,Male
+0,83,Married,HS diploma,0,White,Male
+0,68,No longer married,College degree,0,White,Female
+0,75,Married,Some college,0,White,Female
+0,51,Married,HS diploma,0,White,Female
+0,19,Married,HS diploma,0,White,Female
+0,61,Married,HS diploma,0,White,Female
+0,51,Never married,Some college,1,White,Male
+0,46,No longer married,College degree,1,White,Female
+0,32,Married,Some college,1,White,Female
+1,20,Never married,Some college,0,Hispanic,Female
+0,70,Married,Some college,0,White,Male
+1,68,Married,Some college,1,White,Male
+0,36,Never married,Some college,0,White,Female
+1,71,Married,Some college,1,White,Female
+1,39,Never married,College degree,0,White,Male
+1,70,No longer married,HS diploma,0,Black,Female
+0,62,No longer married,HS diploma,0,White,Female
+0,32,Married,Some college,0,Other,Female
+1,25,Never married,College degree,0,Other,Male
+0,72,Married,Graduate degree,0,White,Female
+1,28,Never married,College degree,1,Black,Male
+1,54,Married,Some college,0,White,Male
+1,37,Married,Graduate degree,0,White,Male
+0,37,Married,Some college,0,White,Female
+0,51,No longer married,Some college,0,White,Female
+1,75,Married,Some college,0,White,Female
+1,21,Never married,Some college,1,Hispanic,Male
+1,63,No longer married,HS diploma,0,White,Female
+0,78,Married,HS diploma,0,White,Male
+1,23,Never married,College degree,0,White,Female
+0,52,No longer married,Graduate degree,1,White,Female
+1,65,Never married,Some college,0,White,Female
+1,64,Never married,College degree,0,White,Male
+0,41,Married,Some college,1,White,Female
+1,59,Married,Some college,0,White,Male
+0,61,No longer married,HS diploma,0,White,Female
+1,41,Never married,HS diploma,0,White,Male
+1,62,Never married,HS diploma,1,White,Female
+1,19,Never married,HS diploma,0,White,Male
+0,25,Never married,College degree,0,White,Female
+1,72,Married,Some college,1,White,Male
+1,67,No longer married,College degree,0,White,Female
+0,44,No longer married,Graduate degree,1,White,Male
+0,32,Married,Some college,0,White,Male
+1,74,No longer married,College degree,0,Black,Female
+1,37,Married,Some college,0,White,Female
+1,39,No longer married,College degree,0,White,Female
+1,29,Never married,Graduate degree,0,White,Female
+1,28,Never married,Graduate degree,0,White,Male
+0,86,Married,Some college,0,White,Male
+0,19,Never married,Some college,0,White,Female
+0,64,No longer married,College degree,0,White,Male
+0,55,Married,College degree,0,White,Male
+1,73,Married,Some college,0,White,Female
+0,41,Married,HS diploma,0,White,Female
+1,33,Never married,College degree,0,White,Female
+1,65,Married,Graduate degree,0,White,Male
+1,31,Never married,Graduate degree,0,White,Male
+1,53,Never married,Some college,1,White,Male
+1,22,Never married,Some college,1,White,Female
+0,34,Married,College degree,0,White,Female
+1,46,Married,College degree,0,White,Male
+1,72,Married,Some college,0,Black,Male
+0,37,Married,Some college,0,White,Male
+1,49,Married,Some college,1,White,Female
+1,41,Married,Less than HS,0,Hispanic,Male
+0,64,No longer married,Some college,0,Hispanic,Female
+1,48,Never married,HS diploma,0,Hispanic,Male
+1,21,Never married,Some college,0,White,Male
+0,72,Married,Some college,0,White,Female
+1,52,Married,Some college,0,White,Female
+0,68,Married,Some college,0,White,Male
+1,84,Married,HS diploma,0,White,Female
+1,56,Married,Some college,0,White,Male
+0,66,No longer married,College degree,0,White,Male
+1,22,Never married,HS diploma,0,Black,Male
+0,27,Married,Some college,1,White,Male
+0,80,Married,Less than HS,0,White,Male
+0,46,Married,Some college,0,White,Male
+0,68,Married,College degree,0,White,Male
+1,33,Never married,Some college,0,White,Female
+1,69,Married,Some college,0,White,Female
+1,68,Never married,College degree,0,White,Male
+1,59,No longer married,Graduate degree,0,White,Female
+0,31,Never married,Some college,0,White,Female
+1,33,Married,Graduate degree,1,White,Male
+1,59,Married,HS diploma,1,Black,Female
+0,50,Married,HS diploma,0,White,Female
+0,79,Married,Some college,0,White,Male
+0,65,Married,Graduate degree,0,White,Male
+1,39,No longer married,Some college,0,Black,Female
+0,54,Married,Graduate degree,0,White,Male
+0,60,Married,Graduate degree,0,White,Male
+1,34,Married,Graduate degree,0,White,Male
+0,60,Married,HS diploma,0,White,Female
+1,62,No longer married,College degree,0,White,Male
+0,28,Never married,Graduate degree,0,White,Male
+0,52,Married,Graduate degree,0,Other,Male
+1,73,Married,Graduate degree,1,White,Male
+1,59,Never married,Some college,0,Other,Female
+0,68,Married,Less than HS,1,White,Male
+1,82,Married,College degree,0,White,Male
+1,30,Never married,HS diploma,0,Black,Male
+1,49,Married,Some college,0,Black,Male
+1,75,No longer married,Some college,0,White,Male
+0,73,Married,Some college,0,White,Female
+1,41,Never married,Graduate degree,0,Black,Female
+1,26,Never married,College degree,0,Hispanic,Male
+1,56,Married,Some college,0,White,Female
+1,20,Never married,Some college,0,White,Male
+0,54,Never married,HS diploma,1,White,Male
+0,49,Never married,Some college,0,White,Male
+1,35,Married,Graduate degree,0,White,Female
+1,26,Never married,College degree,0,White,Female
+0,37,Married,College degree,0,White,Male
+1,57,No longer married,Some college,1,Other,Male
+0,67,No longer married,HS diploma,0,White,Male
+0,63,Married,Graduate degree,0,White,Male
+1,41,Married,College degree,0,White,Male
+0,37,Never married,Some college,0,White,Female
+0,55,Never married,Some college,0,White,Male
+1,26,Never married,College degree,0,White,Female
+0,68,Married,Graduate degree,0,White,Male
+1,24,Never married,Some college,0,Black,Female
+1,25,Never married,HS diploma,0,Hispanic,Female
+0,60,Married,Some college,0,White,Female
+0,57,Never married,Some college,0,Other,Female
+0,29,Never married,Some college,0,White,Male
+0,46,Married,HS diploma,0,White,Female
+1,70,Never married,College degree,0,White,Female
+1,81,Married,Graduate degree,1,White,Male
+1,60,Never married,College degree,0,White,Male
+0,50,Married,Some college,0,White,Female
+1,41,Married,Graduate degree,0,Hispanic,Male
+0,22,Never married,Some college,0,White,Female
+1,32,Married,Graduate degree,0,Black,Female
+1,19,Never married,Some college,1,White,Female
+1,21,Never married,HS diploma,1,Black,Male
+1,24,Never married,HS diploma,0,Black,Female
+0,66,Married,College degree,0,White,Male
+1,60,No longer married,HS diploma,0,Black,Female
+1,80,No longer married,Some college,0,White,Female
+0,61,No longer married,Some college,0,White,Female
+0,60,No longer married,Graduate degree,0,White,Female
+0,49,No longer married,Some college,0,White,Female
+0,59,Married,HS diploma,0,Other,Female
+1,79,Married,Graduate degree,0,White,Male
+1,38,Married,College degree,0,White,Female
+0,34,No longer married,Graduate degree,0,White,Female
+0,63,Married,Graduate degree,0,White,Male
+0,73,Married,College degree,0,White,Male
+1,32,Never married,College degree,0,White,Male
+0,37,Married,HS diploma,1,White,Female
+0,73,Married,Some college,0,White,Female
+1,22,Never married,HS diploma,0,Black,Female
+0,27,Married,College degree,0,White,Male
+1,55,Married,Graduate degree,0,Hispanic,Male
+0,86,No longer married,HS diploma,0,White,Female
+1,60,Married,Graduate degree,0,White,Female
+1,35,Never married,Some college,0,Black,Female
+0,62,No longer married,Some college,0,White,Male
+0,49,No longer married,Some college,0,White,Female
+0,58,No longer married,College degree,0,White,Male
+0,62,Married,Some college,0,White,Female
+1,54,Married,College degree,0,White,Male
+0,61,Married,Some college,1,White,Male
+0,28,Never married,College degree,1,White,Male
+1,67,No longer married,Some college,0,White,Female
+0,37,Married,Some college,0,White,Female
+1,58,Never married,Some college,0,Other,Female
+0,27,Never married,College degree,0,White,Male
+1,28,Married,Graduate degree,0,White,Female
+1,37,Married,Graduate degree,0,White,Female
+1,64,No longer married,Graduate degree,0,White,Female
+1,77,No longer married,College degree,1,Hispanic,Female
+0,67,Married,HS diploma,0,White,Male
+0,74,Married,College degree,0,White,Female
+0,33,Married,Some college,0,White,Male
+0,31,Married,Some college,0,White,Male
+0,36,Married,College degree,1,White,Female
+0,49,Married,HS diploma,0,White,Male
+0,19,Never married,Some college,0,White,Male
+1,64,Married,Graduate degree,1,Other,Female
+1,38,Married,College degree,0,White,Male
+0,53,Married,College degree,0,White,Female
+1,70,Never married,College degree,0,Hispanic,Female
+0,57,Married,Some college,0,White,Female
+0,39,Married,College degree,1,White,Female
+1,53,No longer married,HS diploma,0,White,Male
+1,59,Married,Some college,0,White,Male
+0,57,Never married,Some college,0,White,Male
+1,27,Never married,HS diploma,0,Black,Female
+1,41,Married,College degree,0,White,Male
+0,22,Never married,College degree,0,Hispanic,Male
+0,63,Married,College degree,0,White,Male
+0,60,No longer married,Some college,1,White,Male
+1,49,Married,Graduate degree,0,Other,Male
+0,31,Married,HS diploma,0,White,Female
+1,31,Never married,College degree,0,Black,Male
+0,53,Married,HS diploma,1,White,Male
+1,36,Married,College degree,0,White,Female
+0,34,No longer married,Graduate degree,0,White,Male
+1,34,No longer married,Less than HS,0,Black,Female
+0,45,Married,Graduate degree,0,White,Male
+1,30,Married,College degree,0,White,Female
+1,67,Married,HS diploma,0,White,Male
+1,58,Never married,College degree,1,White,Male
+0,54,No longer married,College degree,0,White,Male
+1,71,No longer married,Graduate degree,0,Black,Male
+0,41,Married,Some college,0,White,Female
+1,32,Married,College degree,0,White,Male
+1,38,No longer married,Graduate degree,0,Black,Female
+0,64,No longer married,Some college,0,Other,Female
+1,61,Married,Graduate degree,0,White,Female
+0,36,Never married,HS diploma,0,White,Male
+0,45,Married,Some college,0,White,Male
+0,60,Married,Some college,0,White,Male
+0,63,Married,HS diploma,0,White,Male
+1,60,Married,Some college,0,White,Male
+1,86,No longer married,Some college,0,Other,Male
+1,59,Married,Graduate degree,0,White,Female
+1,40,Married,College degree,0,White,Female
+1,40,Married,Some college,0,Hispanic,Female
+0,30,Married,Some college,1,White,Female
+1,63,Married,College degree,0,White,Female
+1,26,Never married,Some college,0,Black,Male
+0,39,Never married,Some college,1,White,Female
+0,28,Married,College degree,0,White,Male
+0,76,No longer married,Some college,0,White,Female
+0,42,Never married,Some college,0,White,Male
+0,32,Married,College degree,1,White,Male
+0,43,Married,Some college,0,White,Female
+1,32,Married,College degree,1,White,Male
+0,58,No longer married,Less than HS,0,White,Male
+1,32,Married,Graduate degree,1,Hispanic,Female
+0,46,No longer married,Some college,0,White,Male
+0,51,Married,Some college,0,White,Male
+0,85,Married,Some college,0,White,Female
+1,68,Married,Graduate degree,1,White,Female
+1,30,Married,College degree,0,Hispanic,Male
+1,46,Never married,Some college,0,Hispanic,Female
+0,65,No longer married,Less than HS,0,White,Male
+0,27,Married,Graduate degree,0,White,Male
+0,31,Married,College degree,0,White,Female
+1,46,No longer married,Some college,1,Hispanic,Female
+0,53,Married,Graduate degree,0,White,Male
+1,37,No longer married,Less than HS,0,Black,Female
+1,63,Married,Graduate degree,0,White,Female
+1,39,Married,Graduate degree,1,White,Male
+0,32,Married,College degree,0,Hispanic,Female
+1,54,Married,College degree,0,Black,Male
+1,18,Never married,HS diploma,0,White,Male
+0,48,No longer married,Some college,0,White,Female
+1,26,Married,Some college,0,Black,Male
+0,55,Married,Some college,1,White,Male
+1,50,No longer married,Graduate degree,0,Hispanic,Female
+1,46,No longer married,Some college,1,White,Female
+1,33,No longer married,Graduate degree,1,White,Female
+1,78,No longer married,Some college,0,Black,Female
+0,42,Married,Some college,0,White,Female
+1,18,Never married,HS diploma,1,White,Female
+1,21,Never married,HS diploma,0,Other,Female
+0,58,Married,HS diploma,1,Hispanic,Female
+1,29,Never married,Some college,0,White,Male
+0,49,Married,College degree,0,White,Male
+0,25,Never married,College degree,0,White,Female
+1,35,Married,Graduate degree,1,White,Female
+0,52,Married,HS diploma,0,White,Male
+0,36,Married,Some college,0,White,Male
+0,53,Never married,HS diploma,0,White,Female
+1,32,Married,Graduate degree,0,White,Female
+1,35,Married,Some college,1,White,Male
+1,64,No longer married,Some college,1,Other,Male
+1,66,No longer married,HS diploma,0,White,Female
+0,58,No longer married,College degree,1,White,Male
+1,31,Married,College degree,0,White,Female
+1,65,Never married,HS diploma,0,Black,Female
+1,51,No longer married,Graduate degree,1,White,Female
+1,45,Never married,Some college,0,White,Female
+1,51,Married,Some college,1,White,Male
+0,30,Married,College degree,1,White,Male
+0,61,Married,Graduate degree,0,White,Male
+0,66,No longer married,Graduate degree,0,Other,Female
+0,28,Married,College degree,0,White,Female
+0,69,No longer married,HS diploma,0,White,Female
+1,87,Never married,Graduate degree,1,White,Female
+1,74,Married,HS diploma,1,White,Female
+0,35,Married,Some college,0,White,Female
+1,50,No longer married,Graduate degree,0,Other,Male
+1,21,Never married,Some college,0,Hispanic,Female
+0,66,Married,Some college,1,Other,Male
+0,67,Married,Some college,0,White,Female
+1,36,Married,College degree,0,Hispanic,Male
+0,56,Married,College degree,1,White,Female
+1,21,Never married,Some college,0,White,Female
+1,63,No longer married,Less than HS,0,Black,Female
+0,57,Married,College degree,0,Other,Male
+0,48,Married,Some college,0,White,Male
+1,20,Never married,HS diploma,0,Black,Male
+0,37,Married,Some college,0,White,Female
+1,58,Married,Graduate degree,0,Other,Male
+1,22,Never married,College degree,0,White,Male
+0,59,Never married,College degree,0,White,Male
+0,60,Married,Some college,0,White,Female
+1,54,Never married,Graduate degree,1,Other,Female
+1,40,Married,Graduate degree,1,White,Female
+0,68,Never married,College degree,0,Other,Male
+1,35,Married,HS diploma,0,Black,Female
+1,42,Married,Some college,0,White,Female
+1,65,Married,Graduate degree,0,White,Male
+1,66,Married,Some college,0,White,Male
+1,50,Married,HS diploma,0,White,Female
+1,48,Never married,Graduate degree,0,White,Female
+1,31,Never married,College degree,0,White,Female
+0,41,Married,HS diploma,0,White,Male
+0,32,Married,Some college,1,White,Female
+0,25,Never married,Some college,1,White,Male
+1,57,Married,Graduate degree,0,White,Male
+0,19,Never married,HS diploma,0,White,Male
+1,32,Never married,Graduate degree,0,Black,Female
+0,56,Married,Some college,0,White,Male
+1,50,Married,Some college,0,White,Male
+1,53,Married,Some college,0,Black,Female
+0,77,Married,HS diploma,0,White,Male
+0,82,No longer married,Graduate degree,0,White,Female
+1,35,Married,Some college,0,Black,Female
+1,32,Married,Some college,0,White,Male
+0,36,Married,College degree,0,White,Female
+1,29,Never married,HS diploma,0,Black,Female
+0,68,Married,Graduate degree,0,White,Male
+1,67,No longer married,Graduate degree,0,White,Female
+1,79,Married,College degree,0,White,Female
+0,59,No longer married,College degree,1,White,Male
+1,54,Married,College degree,0,White,Male
+0,80,Married,Some college,0,White,Female
+1,30,Married,College degree,0,White,Female
+1,37,Married,HS diploma,0,Hispanic,Male
+0,49,Married,Some college,0,Other,Male
+1,59,Married,Some college,0,Hispanic,Female
+1,36,Never married,Some college,1,White,Male
+1,38,Never married,Some college,1,Hispanic,Male
+0,82,Married,Some college,0,White,Male
+1,67,Married,Some college,0,Black,Male
+1,41,Never married,College degree,0,White,Female
+0,61,No longer married,HS diploma,0,White,Female
+0,65,Never married,Graduate degree,0,White,Male
+0,64,Married,HS diploma,0,White,Female
+1,27,Never married,Graduate degree,0,White,Female
+0,64,Married,College degree,0,White,Female
+1,21,Never married,Some college,0,Other,Female
+1,65,Married,Graduate degree,0,White,Female
+1,65,Married,College degree,1,White,Male
+1,64,Married,College degree,0,White,Male
+0,76,Married,Graduate degree,0,White,Male
+1,25,Never married,Some college,0,White,Female
+1,64,Married,Some college,0,Other,Male
+1,59,Married,Graduate degree,1,White,Female
+0,25,Married,Some college,1,White,Male
+0,50,No longer married,HS diploma,0,Other,Female
+0,76,Married,Some college,0,White,Female
+1,70,No longer married,Some college,0,White,Male
+0,37,Married,Some college,1,White,Male
+0,38,Married,College degree,0,White,Male
+0,48,No longer married,Some college,0,White,Female
+1,65,Married,Less than HS,0,Hispanic,Male
+0,69,Married,Some college,0,White,Female
+1,34,No longer married,College degree,0,White,Male
+0,59,Married,Some college,0,White,Male
+0,28,Married,HS diploma,0,White,Female
+1,56,Married,College degree,0,Hispanic,Male
+1,34,Married,HS diploma,0,White,Male
+0,54,No longer married,College degree,1,White,Female
+1,55,Married,College degree,1,Hispanic,Male
+1,64,No longer married,HS diploma,1,White,Male
+1,29,Married,Graduate degree,1,White,Female
+1,66,Married,College degree,1,White,Female
+1,71,Never married,Some college,0,White,Male
+1,81,No longer married,HS diploma,0,White,Female
+0,53,Married,Some college,0,White,Male
+1,22,Never married,HS diploma,0,Hispanic,Female
+0,21,Never married,Less than HS,0,White,Female
+0,54,No longer married,College degree,0,White,Male
+0,64,No longer married,College degree,0,White,Male
+0,71,Married,HS diploma,0,White,Female
+1,20,Never married,Some college,0,White,Female
+1,55,Never married,Less than HS,0,Black,Female
+0,67,Married,Some college,1,White,Male
+1,63,No longer married,HS diploma,0,White,Female
+1,55,No longer married,Some college,0,White,Female
+0,62,Married,Less than HS,0,White,Female
+1,83,No longer married,Graduate degree,0,White,Male
+1,46,No longer married,HS diploma,0,Black,Female
+0,63,Never married,College degree,0,White,Female
+0,59,No longer married,Some college,0,White,Male
+0,44,Married,Some college,0,Other,Female
+1,36,Married,Graduate degree,0,Other,Female
+0,54,No longer married,College degree,0,White,Female
+0,64,No longer married,Some college,0,White,Male
+0,65,Married,Some college,0,White,Male
+1,30,Never married,College degree,0,White,Male
+1,54,No longer married,Graduate degree,0,Hispanic,Female
+1,24,Never married,HS diploma,0,White,Female
+1,66,Married,Graduate degree,0,White,Male
+1,20,Never married,Less than HS,0,White,Female
+0,81,Married,College degree,0,White,Male
+0,72,No longer married,Some college,0,White,Female
+1,64,No longer married,Graduate degree,0,Hispanic,Male
+1,75,Married,HS diploma,0,White,Male
+1,56,Married,HS diploma,1,White,Male
+1,27,No longer married,College degree,0,White,Female
+1,19,Never married,HS diploma,0,Hispanic,Male
+1,56,Never married,Some college,0,White,Male
+0,73,Married,Some college,0,White,Male
+1,56,Married,Graduate degree,1,White,Male
+1,64,Married,Graduate degree,0,White,Female
+0,34,Married,Some college,0,White,Male
+1,75,No longer married,College degree,0,White,Male
+1,38,No longer married,Less than HS,1,Black,Male
+1,50,Married,College degree,0,White,Male
+1,61,No longer married,Less than HS,0,Black,Male
+0,62,Married,Some college,0,White,Male
+1,48,Married,Graduate degree,0,White,Male
+1,66,No longer married,Less than HS,0,Black,Female
+1,31,Married,Less than HS,0,Hispanic,Female
+0,67,Married,Some college,0,White,Female
+0,19,Never married,Some college,0,White,Male
+1,21,Never married,Some college,0,White,Female
+0,64,No longer married,HS diploma,0,White,Female
+1,23,Never married,Less than HS,0,Black,Male
+1,44,Married,Some college,0,Black,Female
+1,72,No longer married,Some college,0,White,Female
+1,72,Married,College degree,0,White,Male
+0,66,Married,Less than HS,0,White,Female
+0,69,No longer married,Some college,0,White,Male
+0,33,Never married,College degree,0,White,Female
+0,35,Married,College degree,0,White,Male
+1,60,Married,HS diploma,1,White,Female
+1,51,Married,Some college,0,Black,Female
+1,45,Married,College degree,0,White,Female
+1,55,No longer married,Some college,0,White,Female
+0,47,Married,College degree,0,White,Male
+1,68,Married,College degree,0,Black,Female
+1,71,Married,HS diploma,0,Other,Female
+1,58,Married,College degree,0,White,Male
+1,67,Married,Graduate degree,0,White,Male
+1,50,Married,College degree,0,White,Male
+0,25,Never married,College degree,0,White,Female
+1,73,No longer married,Less than HS,0,White,Male
+1,60,Married,HS diploma,0,Hispanic,Female
+1,37,Never married,HS diploma,0,Black,Female
+1,28,Never married,Graduate degree,0,White,Female
+0,58,Married,College degree,1,White,Male
+0,38,Married,College degree,0,White,Male
+1,68,Married,HS diploma,0,White,Female
+0,84,No longer married,HS diploma,0,White,Male
+1,62,Married,College degree,1,White,Male
+1,38,Married,Less than HS,0,Hispanic,Female
+1,68,No longer married,Less than HS,0,Other,Female
+0,65,No longer married,Some college,0,White,Female
+0,36,Married,Graduate degree,0,White,Male
+1,63,No longer married,Graduate degree,0,White,Female
+0,50,Never married,Some college,0,White,Male
+1,51,Never married,Some college,0,White,Female
+0,62,No longer married,Some college,0,White,Female
+0,39,Married,Some college,0,White,Female
+1,54,Married,College degree,1,White,Female
+1,63,No longer married,HS diploma,1,White,Male
+0,72,No longer married,College degree,0,White,Male
+1,30,Never married,College degree,0,White,Female
+0,39,Married,Less than HS,0,White,Male
+0,44,No longer married,Some college,0,White,Female
+0,73,Married,Some college,0,White,Female
+1,75,No longer married,HS diploma,0,Black,Female
+0,47,No longer married,Graduate degree,0,Other,Male
+1,42,Never married,Graduate degree,0,White,Female
+0,67,Married,Some college,0,White,Male
+0,59,Married,HS diploma,0,White,Female
+1,63,Married,Graduate degree,0,White,Male
+0,29,Married,College degree,0,White,Male
+0,67,No longer married,HS diploma,0,White,Male
+1,57,Married,Some college,0,Other,Male
+0,27,No longer married,College degree,0,White,Female
+1,55,Married,Graduate degree,0,White,Male
+1,23,Never married,HS diploma,0,White,Male
+1,57,Never married,Less than HS,0,Black,Male
+1,68,Married,College degree,0,White,Female
+0,46,Married,Graduate degree,0,White,Male
+0,66,Married,Some college,0,White,Male
+1,65,Married,Graduate degree,1,White,Male
+1,71,Never married,Some college,0,Black,Female
+0,28,Never married,Graduate degree,0,White,Female
+1,49,Married,Some college,1,White,Female
+0,65,Married,Some college,0,White,Male
+1,35,Married,Graduate degree,0,White,Female
+0,51,Married,Some college,0,White,Female
+1,56,Married,Graduate degree,0,White,Male
+1,39,Married,Graduate degree,1,White,Male
+1,53,Never married,Some college,0,Black,Female
+1,68,Married,College degree,0,White,Female
+1,68,Married,College degree,0,White,Male
+0,82,Married,Graduate degree,0,White,Male
+1,60,Married,College degree,0,White,Female
+1,30,Never married,Some college,0,Black,Female
+1,67,Married,Some college,0,White,Male
+0,33,Married,Some college,0,White,Male
+0,61,Married,Some college,1,White,Female
+1,56,No longer married,Some college,0,Hispanic,Male
+1,53,Never married,Some college,1,White,Male
+0,69,No longer married,Some college,0,White,Male
+0,47,Married,HS diploma,1,White,Male
+1,38,Married,College degree,0,White,Male
+0,81,No longer married,Some college,0,White,Female
+0,68,No longer married,Some college,0,White,Male
+1,76,Married,HS diploma,0,White,Male
+1,68,No longer married,College degree,0,White,Female
+1,31,Married,Graduate degree,0,Other,Male
+1,25,Married,College degree,0,White,Female
+0,32,Married,Some college,0,White,Female
+1,54,Married,Some college,0,White,Male
+0,65,Married,College degree,1,White,Male
+1,32,Married,Some college,0,White,Male
+1,60,Married,Some college,0,White,Female
+1,63,Married,Some college,0,Other,Female
+1,28,Never married,Some college,0,Hispanic,Female
+1,42,Never married,Graduate degree,0,White,Male
+1,33,Married,HS diploma,0,Hispanic,Male
+1,57,No longer married,College degree,0,White,Female
+0,76,Married,College degree,0,White,Female
+0,62,No longer married,Some college,0,White,Female
+0,31,Never married,College degree,0,White,Female
+1,34,Married,Graduate degree,1,Other,Female
+0,46,No longer married,College degree,0,White,Male
+1,54,Married,Some college,0,White,Male
+1,63,Married,Some college,0,White,Male
+0,32,Married,College degree,0,White,Male
+1,31,Never married,HS diploma,0,White,Male
+1,26,Never married,HS diploma,0,White,Female
+1,42,Never married,HS diploma,0,White,Female
+1,68,Married,College degree,0,Other,Male
+1,65,No longer married,Graduate degree,0,White,Female
+1,49,Never married,Some college,1,Black,Female
+1,37,Married,College degree,0,White,Male
+0,58,Married,College degree,0,White,Female
+0,60,Married,College degree,0,White,Male
+1,35,Never married,College degree,1,Black,Female
+1,47,Never married,Some college,0,Black,Female
+1,53,No longer married,Some college,0,White,Female
+0,46,Married,Some college,0,White,Female
+0,30,Married,Some college,1,White,Male
+1,42,No longer married,HS diploma,0,Black,Female
+1,53,No longer married,Graduate degree,0,White,Female
+1,31,Never married,College degree,0,White,Male
+0,60,Married,Some college,0,White,Female
+0,41,Married,Some college,0,White,Male
+0,23,Never married,Some college,1,White,Male
+0,38,Married,Graduate degree,0,White,Male
+0,39,No longer married,College degree,0,White,Female
+0,71,Married,Some college,0,White,Female
+1,70,No longer married,Graduate degree,0,White,Female
+1,38,Never married,College degree,0,White,Female
+1,28,Married,Some college,0,White,Female
+1,33,Married,College degree,0,White,Male
+0,58,Never married,HS diploma,0,White,Female
+1,79,Married,HS diploma,0,White,Female
+0,40,Married,Graduate degree,0,White,Female
+0,66,Married,Graduate degree,0,White,Male
+1,69,Married,Graduate degree,0,White,Female
+1,50,Never married,Some college,0,Hispanic,Male
+1,26,Never married,College degree,0,Hispanic,Female
+1,68,Married,Graduate degree,1,White,Male
+0,56,Never married,Less than HS,0,Other,Male
+0,55,Married,College degree,0,White,Male
+1,54,Married,HS diploma,0,White,Female
+1,20,No longer married,College degree,0,Black,Female
+0,86,Married,HS diploma,0,White,Female
+1,57,Married,HS diploma,1,White,Female
+0,30,No longer married,Some college,0,White,Female
+0,66,No longer married,HS diploma,0,White,Male
+1,36,Never married,Some college,1,Hispanic,Male
+1,44,Married,Graduate degree,0,White,Male
+1,55,Married,Less than HS,0,Other,Female
+1,31,Married,HS diploma,0,Black,Male
+0,56,No longer married,Some college,0,White,Male
+1,57,Married,Some college,0,Hispanic,Female
+1,28,Never married,College degree,0,White,Male
+1,37,Married,Some college,0,White,Female
+0,45,Married,College degree,1,White,Male
+0,43,Married,Some college,0,Hispanic,Female
+1,37,Married,Graduate degree,0,White,Female
+1,66,Married,Graduate degree,0,White,Female
+1,75,No longer married,HS diploma,0,Black,Female
+0,72,No longer married,HS diploma,0,White,Male
+1,26,Never married,College degree,0,Hispanic,Female
+1,72,No longer married,College degree,0,White,Male
+0,67,Never married,Less than HS,1,White,Female
+0,63,Married,College degree,1,Other,Male
+0,42,Married,Some college,0,White,Male
+0,78,Married,Some college,0,White,Female
+1,66,Never married,College degree,0,White,Male
+0,57,No longer married,HS diploma,0,White,Female
+1,52,Never married,HS diploma,1,White,Male
+1,45,No longer married,Less than HS,0,Black,Female
+1,37,Never married,Some college,0,Hispanic,Female
+1,39,No longer married,College degree,0,White,Female
+0,35,Married,Some college,1,White,Male
+0,72,No longer married,Some college,0,White,Female
+0,29,Never married,Some college,0,Hispanic,Male
+0,62,Never married,HS diploma,0,White,Female
+0,78,No longer married,Some college,0,White,Female
+0,29,Never married,Graduate degree,0,White,Female
+1,33,Married,College degree,1,White,Male
+0,52,Married,HS diploma,0,White,Male
+0,69,No longer married,Some college,0,White,Female
+1,39,Married,HS diploma,0,White,Male
+0,50,Married,HS diploma,1,White,Female
+0,59,Married,College degree,0,White,Female
+0,35,Married,Some college,0,White,Male
+1,22,Never married,College degree,0,Black,Female
+1,29,Never married,Some college,1,Black,Female
+0,46,Married,Some college,0,White,Male
+1,58,Married,Some college,0,White,Male
+1,38,Married,College degree,0,White,Female
+0,27,Married,Some college,1,White,Male
+1,37,Married,Some college,0,Black,Female
+1,49,Never married,HS diploma,0,Other,Female
+1,19,Never married,Some college,1,Hispanic,Male
+1,67,Married,Some college,1,Black,Female
+1,57,Married,Some college,1,Hispanic,Male
+1,47,Married,College degree,1,White,Male
+1,20,Never married,Some college,0,Other,Male
+1,59,Married,Graduate degree,0,White,Female
+0,49,Never married,College degree,0,Other,Female
+0,72,Married,Some college,0,White,Male
+0,41,Married,Some college,0,White,Female
+1,23,Never married,College degree,0,White,Female
+1,57,No longer married,Some college,0,White,Female
+0,58,Never married,Some college,0,White,Male
+1,38,No longer married,Some college,0,Hispanic,Female
+1,71,Married,Graduate degree,0,White,Female
+0,63,Married,Some college,1,White,Female
+0,29,Never married,HS diploma,0,White,Female
+0,25,Never married,Some college,0,White,Female
+0,58,Married,Graduate degree,0,White,Male
+0,56,Married,Some college,1,White,Female
+1,68,No longer married,Some college,0,Other,Female
+0,70,Married,Graduate degree,0,White,Male
+0,35,Married,College degree,0,White,Male
+1,58,No longer married,College degree,0,Hispanic,Female
+1,53,Married,Some college,0,Black,Male
+0,49,Married,HS diploma,0,White,Female
+0,53,Married,College degree,0,White,Female
+1,39,Never married,Some college,0,Black,Female
+0,64,Never married,College degree,0,White,Male
+0,66,Married,College degree,0,White,Female
+1,51,Married,Some college,0,White,Female
+0,43,Married,Some college,0,White,Male
+0,62,No longer married,Graduate degree,0,White,Female
+1,81,No longer married,Some college,0,Black,Female
+0,72,Married,College degree,0,White,Male
+0,65,No longer married,HS diploma,0,White,Female
+1,35,Never married,Less than HS,0,Black,Female
+1,72,No longer married,College degree,1,White,Female
+1,81,No longer married,Less than HS,0,Black,Female
+0,70,Married,HS diploma,0,White,Male
+0,82,No longer married,HS diploma,0,White,Female
+1,38,Married,College degree,0,Other,Female
+1,79,Married,Some college,0,Other,Female
+1,57,No longer married,College degree,0,White,Male
+0,74,Married,Graduate degree,0,White,Male
+0,52,No longer married,College degree,0,White,Male
+0,71,No longer married,Some college,0,White,Female
+1,46,No longer married,Some college,0,Other,Male
+1,78,No longer married,Some college,0,White,Female
+1,76,No longer married,Graduate degree,0,White,Female
+1,60,No longer married,Less than HS,0,White,Male
+1,38,Married,HS diploma,0,Hispanic,Female
+1,57,No longer married,Graduate degree,0,White,Female
+1,42,Married,Some college,0,Hispanic,Female
+0,69,No longer married,HS diploma,0,White,Female
+0,46,Married,Graduate degree,0,White,Female
+0,51,Married,College degree,0,White,Female
+0,58,No longer married,Some college,0,Other,Female
+0,32,Married,Graduate degree,0,White,Female
+0,79,Married,HS diploma,0,White,Female
+0,59,Married,HS diploma,1,White,Male
+1,20,Never married,Some college,0,Hispanic,Male
+0,54,Married,Some college,0,White,Female
+0,57,No longer married,Some college,0,White,Female
+1,34,Never married,HS diploma,0,Black,Female
+0,59,Married,Some college,0,White,Male
+1,74,Married,Graduate degree,1,White,Male
+0,77,Married,Less than HS,1,Hispanic,Female
+1,50,No longer married,Some college,0,Hispanic,Female
+1,32,Never married,HS diploma,0,Black,Male
+0,56,Married,College degree,0,White,Male
+1,68,No longer married,HS diploma,0,White,Female
+1,55,Married,Some college,0,White,Female
+1,62,Married,Some college,0,White,Female
+0,26,Never married,Graduate degree,0,White,Female
+1,45,Married,Some college,0,White,Male
+0,60,Married,Graduate degree,0,Other,Male
+0,18,Never married,Less than HS,0,White,Male
+0,64,Married,Some college,0,White,Female
+1,25,Never married,Some college,0,Other,Female
+1,78,Married,Less than HS,0,Black,Male
+1,72,Married,Graduate degree,0,Black,Female
+1,54,Never married,Some college,0,White,Male
+0,63,Married,Some college,1,White,Male
+0,72,Married,Graduate degree,0,White,Male
+0,37,Married,Graduate degree,0,White,Male
+1,32,Never married,Less than HS,0,Hispanic,Female
+1,68,Married,Some college,0,White,Male
+1,31,Never married,Graduate degree,0,White,Female
+0,60,Married,College degree,1,White,Female
+1,38,Never married,Some college,0,White,Female
+0,63,Married,HS diploma,0,White,Female
+1,58,Married,HS diploma,0,White,Male
+0,32,Married,Some college,0,White,Male
+0,36,Married,Graduate degree,0,White,Male
+0,39,Married,Graduate degree,0,White,Female
+1,82,Married,Graduate degree,0,White,Male
+1,29,Never married,Some college,0,Black,Male
+0,41,No longer married,Graduate degree,0,White,Female
+1,56,No longer married,College degree,0,White,Male
+1,39,No longer married,Graduate degree,0,White,Female
+0,70,Married,College degree,0,White,Male
+0,19,Never married,HS diploma,0,White,Male
+1,21,Never married,Some college,0,White,Female
+1,37,No longer married,HS diploma,0,White,Female
+1,25,Never married,Graduate degree,0,White,Female
+1,68,Married,Some college,0,White,Female
+0,83,Married,HS diploma,0,White,Female
+1,53,Married,Some college,1,White,Male
+1,25,Never married,College degree,1,Hispanic,Male
+1,62,Married,HS diploma,0,White,Female
+1,20,Never married,HS diploma,0,White,Male
+1,56,Never married,Graduate degree,1,White,Female
+0,55,Married,Some college,0,White,Male
+0,49,Married,College degree,0,White,Male
+1,27,Never married,Some college,0,Black,Male
+1,23,Never married,Some college,1,White,Male
+1,45,Married,Some college,0,White,Male
+1,32,Never married,Some college,0,Black,Male
+1,58,Married,Graduate degree,0,White,Female
+1,31,Never married,Graduate degree,1,White,Female
+0,22,Married,Some college,0,White,Male
+1,18,Never married,HS diploma,0,Hispanic,Male
+0,56,Married,Some college,0,White,Male
+1,42,No longer married,College degree,0,White,Female
+0,67,No longer married,Some college,0,White,Female
+1,63,No longer married,College degree,0,White,Male
+1,29,Never married,College degree,0,Black,Female
+0,73,Married,Graduate degree,0,White,Female
+0,43,Married,College degree,0,White,Female
+1,45,Never married,College degree,0,White,Male
+0,48,Married,Graduate degree,0,Other,Male
+1,49,Never married,College degree,0,White,Female
+1,89,No longer married,HS diploma,0,White,Female
+0,59,Married,Some college,0,White,Female
+0,23,Never married,Some college,0,White,Male
+0,88,Married,Less than HS,0,White,Male
+0,61,Married,HS diploma,0,White,Male
+1,31,Never married,Some college,0,Other,Female
+0,22,Married,Less than HS,0,White,Female
+1,27,Never married,College degree,0,White,Female
+0,32,Married,Some college,0,White,Male
+0,47,Never married,Some college,0,White,Female
+0,24,Never married,College degree,1,Other,Male
+1,74,No longer married,Some college,0,Black,Female
+1,78,No longer married,Graduate degree,1,White,Female
+0,76,Married,HS diploma,0,White,Female
+1,66,Never married,College degree,0,Black,Male
+0,52,Married,College degree,0,White,Female
+1,67,Married,Graduate degree,0,White,Female
+0,71,No longer married,College degree,0,Other,Female
+1,35,Never married,Less than HS,0,Hispanic,Male
+0,68,No longer married,HS diploma,0,White,Female
+1,66,Married,HS diploma,0,Hispanic,Male
+1,19,Never married,Less than HS,0,Black,Male
+1,52,No longer married,Some college,0,Black,Female
+0,78,Married,Graduate degree,0,White,Male
+0,59,No longer married,HS diploma,0,Other,Female
+1,47,Married,College degree,0,Hispanic,Male
+1,66,No longer married,College degree,1,White,Female
+1,32,Married,College degree,0,White,Male
+0,69,Married,College degree,0,Other,Male
+1,41,Married,Graduate degree,0,Black,Female
+0,39,No longer married,Some college,0,White,Male
+0,52,Married,College degree,0,White,Male
+0,53,No longer married,Some college,1,White,Male
+1,86,Married,Less than HS,1,White,Male
+0,24,Married,College degree,0,White,Female
+1,62,Married,Graduate degree,1,Black,Female
+1,20,Never married,Some college,0,White,Female
+1,30,Married,Some college,0,Hispanic,Male
+0,27,Never married,College degree,0,White,Female
+1,26,Never married,College degree,0,Other,Male
+0,48,Married,Some college,0,White,Male
+1,48,No longer married,College degree,0,White,Female
+0,68,Married,Graduate degree,0,Black,Female
+0,29,Married,College degree,1,White,Male
+1,84,Married,College degree,0,White,Male
+1,66,Married,Graduate degree,0,White,Female
+0,71,Married,Some college,0,White,Female
+0,56,Married,College degree,1,White,Female
+1,58,Married,College degree,1,White,Female
+1,34,Married,Less than HS,0,Hispanic,Male
+1,43,Married,Graduate degree,0,White,Female
+1,57,Married,Some college,0,White,Male
+0,61,Married,Some college,0,White,Male
+1,62,Married,HS diploma,1,White,Male
+0,49,Married,Some college,1,White,Male
+1,26,Married,Some college,0,White,Female
+1,31,Married,Graduate degree,0,White,Female
+1,27,Never married,Some college,0,Black,Female
+0,73,No longer married,HS diploma,0,White,Male
+0,50,Married,Graduate degree,0,White,Female
+1,57,No longer married,Less than HS,0,White,Female
+1,78,No longer married,College degree,0,White,Female
+0,38,Married,Graduate degree,0,White,Male
+1,55,Married,College degree,0,White,Female
+0,53,Married,Some college,0,White,Male
+0,40,Married,Some college,0,White,Female
+0,67,Married,Graduate degree,0,White,Male
+0,41,Married,Some college,0,White,Male
+1,27,Married,Some college,0,Other,Male
+1,53,Married,Some college,0,White,Male
+1,30,No longer married,Some college,0,White,Female
+1,61,No longer married,HS diploma,0,Black,Male
+0,66,Married,HS diploma,0,White,Male
+0,35,Never married,College degree,0,White,Male
+1,26,Never married,College degree,0,Hispanic,Male
+0,70,Married,College degree,0,White,Male
+1,27,Never married,HS diploma,1,Hispanic,Female
+1,80,Married,College degree,0,Hispanic,Male
+0,39,Married,College degree,0,White,Female
+1,66,Never married,Graduate degree,0,White,Male
+0,29,Married,Some college,0,White,Female
+1,33,Married,College degree,0,White,Male
+0,60,Married,College degree,0,White,Female
+1,25,Never married,Graduate degree,0,Other,Female
+0,59,Married,College degree,0,White,Male
+1,22,Never married,College degree,0,White,Male
+0,50,Never married,Some college,0,White,Male
+1,51,No longer married,College degree,0,White,Female
+1,63,No longer married,Some college,0,White,Female
+0,75,Married,Some college,0,White,Female
+0,68,Married,Some college,0,White,Male
+1,56,Married,College degree,0,White,Male
+0,48,Married,College degree,0,White,Male
+1,65,No longer married,College degree,0,White,Female
+1,56,No longer married,College degree,0,Other,Female
+1,61,No longer married,College degree,0,Hispanic,Male
+0,71,Married,College degree,0,White,Female
+0,33,Never married,Graduate degree,0,White,Female
+0,69,No longer married,Some college,0,Hispanic,Male
+1,62,Married,Graduate degree,1,Black,Male
+0,62,No longer married,Some college,0,White,Female
+0,64,No longer married,Some college,0,White,Male
+1,54,Married,Some college,1,White,Male
+1,60,Never married,Graduate degree,1,White,Male
+1,37,No longer married,Graduate degree,0,Black,Female
+1,22,Never married,Some college,0,White,Female
+1,75,Married,College degree,0,White,Male
+1,73,No longer married,Some college,0,White,Male
+1,58,Married,Graduate degree,0,Black,Male
+0,53,Married,College degree,1,White,Male
+1,28,Never married,Graduate degree,0,White,Female
+1,72,No longer married,Graduate degree,0,Hispanic,Male
+0,27,Married,Some college,1,White,Female
+1,36,Married,Graduate degree,0,White,Female
+1,83,No longer married,Some college,0,Black,Female
+0,78,Married,Graduate degree,0,Other,Male
+1,66,Married,Graduate degree,0,White,Male
+0,68,Married,College degree,0,White,Female
+1,29,Married,HS diploma,0,Hispanic,Female
+0,50,No longer married,Some college,0,White,Female
+1,39,No longer married,Graduate degree,0,Other,Female
+1,22,Never married,HS diploma,0,White,Female
+0,35,Married,HS diploma,1,White,Male
+1,60,No longer married,College degree,1,White,Female
+1,70,No longer married,Some college,0,Other,Female
+1,31,No longer married,Some college,0,White,Female
+0,56,Never married,Graduate degree,0,White,Female
+1,56,Married,Some college,0,Black,Female
+1,20,Never married,HS diploma,0,Other,Female
+1,72,Married,Graduate degree,0,White,Male
+0,61,Married,Some college,0,White,Female
+1,48,Married,Graduate degree,0,White,Female
+1,27,Married,Less than HS,0,Hispanic,Male
+0,81,Married,HS diploma,0,White,Female
+1,60,No longer married,Some college,0,White,Female
+1,64,Married,Some college,0,Hispanic,Male
+0,45,Married,Some college,1,White,Female
+0,81,Married,College degree,0,White,Male
+1,71,No longer married,Some college,0,White,Female
+0,66,No longer married,HS diploma,1,White,Male
+0,56,Married,HS diploma,0,White,Female
+0,66,Married,College degree,0,Other,Female
+0,77,No longer married,Less than HS,0,White,Female
+0,33,Never married,College degree,0,White,Female
+0,30,Never married,Graduate degree,0,White,Female
+0,50,Married,Some college,0,White,Male
+1,37,No longer married,Some college,1,Black,Male
+0,70,Married,College degree,0,Black,Female
+1,42,Never married,College degree,0,White,Male
+0,80,Married,College degree,0,White,Male
+1,30,No longer married,Less than HS,0,White,Female
+1,50,No longer married,College degree,0,Other,Female
+1,55,Never married,Some college,0,Black,Male
+1,70,Never married,College degree,0,White,Male
+1,74,Married,Graduate degree,0,White,Male
+1,69,No longer married,Graduate degree,0,Black,Female
+0,82,Married,Some college,0,White,Male
+0,70,Married,Graduate degree,0,White,Male
+0,25,Never married,Some college,0,White,Male
+1,39,Married,College degree,0,White,Female
+1,25,Never married,College degree,0,White,Female
+0,42,No longer married,Some college,0,White,Female
+1,76,No longer married,HS diploma,0,Black,Female
+0,56,No longer married,HS diploma,0,White,Female
+1,63,Married,Graduate degree,1,White,Female
+0,68,Married,HS diploma,0,White,Female
+0,87,Married,HS diploma,1,White,Male
+0,45,Married,College degree,0,White,Male
+1,34,Married,College degree,0,White,Male
+1,55,Married,Graduate degree,0,White,Female
+0,65,Married,HS diploma,0,White,Female
+0,40,Married,Some college,0,White,Male
+1,55,Never married,Graduate degree,0,White,Female
+0,62,Married,Graduate degree,1,White,Male
+1,60,Married,College degree,0,Other,Female
+0,49,Married,HS diploma,0,White,Male
+1,42,Never married,HS diploma,0,Black,Female
+1,37,No longer married,College degree,0,Black,Female
+0,54,No longer married,College degree,1,White,Female
+0,70,Married,Some college,0,Other,Male
+1,20,Never married,Some college,0,Other,Male
+0,48,Married,College degree,0,White,Female
+0,58,Married,Some college,0,White,Male
+1,32,Married,College degree,0,White,Male
+0,28,Married,College degree,0,White,Male
+1,78,Married,Graduate degree,0,White,Female
+1,63,Married,Graduate degree,0,White,Female
+1,54,No longer married,Some college,0,White,Female
+1,58,No longer married,HS diploma,0,Other,Female
+1,81,No longer married,HS diploma,0,White,Male
+0,59,No longer married,Some college,0,White,Male
+0,60,No longer married,Some college,0,White,Female
+1,41,No longer married,Graduate degree,0,Black,Female
+0,34,Married,College degree,0,Hispanic,Male
+0,72,Married,Graduate degree,0,White,Female
+1,58,Married,College degree,0,White,Male
+1,54,Married,College degree,1,Other,Female
+0,63,Married,Some college,0,White,Male
+0,64,No longer married,College degree,0,White,Female
+1,56,Married,Some college,0,White,Female
+0,51,Married,Some college,0,White,Male
+1,63,Married,Some college,1,White,Female
+1,39,Married,Graduate degree,0,White,Female
+1,53,Married,College degree,1,Other,Female
+0,55,Married,Graduate degree,0,White,Female
+0,55,Married,Less than HS,1,White,Male
+0,68,No longer married,Less than HS,0,White,Female
+1,88,Never married,Some college,0,White,Male
+0,76,Married,College degree,0,Hispanic,Male
+0,44,Married,Some college,0,White,Female
+1,39,Married,Some college,1,White,Male
+1,47,Married,Some college,0,White,Female
+1,67,Married,Some college,1,White,Female
+1,19,Never married,HS diploma,0,White,Female
+0,51,Married,Some college,0,White,Female
+1,46,No longer married,HS diploma,1,Hispanic,Male
+0,57,No longer married,HS diploma,0,White,Female
+1,61,Never married,College degree,0,White,Female
+1,56,Married,Some college,0,White,Female
+0,37,Married,HS diploma,0,White,Male
+1,55,No longer married,Graduate degree,0,Other,Female
+0,32,Married,Graduate degree,1,White,Male
+0,54,Married,Some college,1,White,Female
+0,61,Married,Some college,0,White,Female
+1,31,Never married,Some college,0,Black,Female
+1,28,No longer married,College degree,0,White,Male
+1,64,Married,Graduate degree,0,White,Female
+1,53,Married,Graduate degree,0,Other,Male
+1,53,Married,Some college,0,Black,Male
+0,35,Married,HS diploma,0,White,Female
+1,31,Never married,HS diploma,0,Black,Female
+1,35,Never married,HS diploma,0,White,Female
+0,28,Never married,HS diploma,0,White,Male
+1,42,Never married,Some college,0,White,Female
+1,52,Married,Some college,0,Other,Male
+1,63,Married,Some college,0,Black,Female
+0,56,Married,Some college,0,White,Male
+0,58,Married,Some college,0,White,Female
+1,58,Married,Graduate degree,0,White,Male
+1,22,Never married,College degree,0,White,Female
+1,23,Never married,College degree,0,Other,Male
+1,45,Married,Graduate degree,0,White,Female
+0,49,Married,Some college,0,White,Female
+0,44,Married,Graduate degree,0,Hispanic,Male
+1,59,No longer married,College degree,0,Hispanic,Male
+1,54,No longer married,College degree,1,White,Male
+1,76,Married,Graduate degree,0,White,Male
+0,42,No longer married,Graduate degree,0,White,Female
+1,55,Married,Some college,0,Black,Female
+0,55,Married,Some college,0,White,Female
+0,47,No longer married,Some college,1,White,Male
+1,71,No longer married,Some college,0,Other,Female
+0,71,Married,HS diploma,0,White,Female
+0,55,Married,Some college,1,White,Female
+0,40,Married,HS diploma,0,White,Female
+1,45,Never married,Graduate degree,1,White,Female
+1,62,Married,Some college,0,Other,Female
+1,45,Married,College degree,0,White,Male
+1,28,Never married,Graduate degree,1,Black,Female
+0,55,Married,Graduate degree,0,White,Female
+1,38,Married,HS diploma,0,White,Female
+1,48,Married,College degree,1,White,Female
+1,59,Married,Graduate degree,0,White,Female
+1,30,Never married,Less than HS,0,White,Male
+0,61,No longer married,Some college,0,Hispanic,Male
+0,51,No longer married,College degree,0,White,Male
+1,25,Never married,College degree,0,Black,Female
+1,66,Never married,Graduate degree,0,Hispanic,Female
+1,26,Never married,College degree,0,Other,Female
+0,65,No longer married,HS diploma,0,White,Male
+1,66,Married,Graduate degree,0,White,Male
+0,68,Married,HS diploma,0,White,Female
+1,71,No longer married,Graduate degree,0,White,Female
+1,20,Never married,Less than HS,0,Other,Female
+1,51,Never married,Graduate degree,0,White,Female
+0,68,Married,HS diploma,0,White,Male
+0,26,Married,College degree,0,White,Female
+0,64,Married,Some college,0,White,Female
+1,27,Never married,College degree,0,White,Female
+0,54,Married,HS diploma,0,White,Female
+0,49,Married,Some college,0,White,Male
+1,73,Never married,Graduate degree,1,White,Female
+0,41,Married,Some college,1,White,Female
+0,58,Married,Some college,0,White,Female
+1,32,No longer married,Graduate degree,0,Other,Male
+1,41,Married,Some college,0,Hispanic,Male
+1,28,Married,Graduate degree,0,White,Female
+1,59,Married,College degree,0,White,Female
+1,21,Never married,Some college,1,Hispanic,Male
+0,36,No longer married,Some college,0,White,Female
+0,21,Never married,HS diploma,0,Other,Male
+1,64,Married,College degree,0,Hispanic,Male
+0,61,Married,Graduate degree,0,White,Male
+1,74,No longer married,Less than HS,0,Black,Female
+0,36,Never married,Some college,0,White,Female
+1,46,Never married,Some college,0,Hispanic,Male
+0,29,Married,Some college,0,White,Female
+1,61,Never married,Some college,0,White,Female
+1,49,Never married,Graduate degree,0,White,Female
+0,58,No longer married,HS diploma,0,White,Female
+1,65,No longer married,HS diploma,0,Hispanic,Male
+0,72,No longer married,Some college,0,White,Male
+1,68,Married,Graduate degree,0,White,Female
+1,71,Married,Graduate degree,0,White,Female
+0,51,Never married,Some college,1,White,Male
+0,58,No longer married,Some college,0,White,Male
+0,66,No longer married,HS diploma,0,White,Female
+1,62,Married,Some college,1,White,Male
+1,33,Never married,Some college,0,Black,Male
+0,39,Never married,Graduate degree,1,White,Female
+1,20,Never married,College degree,0,White,Female
+0,60,Married,Some college,0,White,Male
+0,48,Never married,Some college,0,White,Male
+1,30,Never married,Graduate degree,0,Other,Female
+1,35,Never married,Graduate degree,0,Other,Female
+0,62,No longer married,HS diploma,0,White,Male
+1,49,Never married,College degree,0,White,Male
+1,21,Married,HS diploma,0,White,Male
+0,23,Married,HS diploma,0,White,Male
+0,42,Married,Some college,0,White,Female
+1,35,Never married,Less than HS,0,White,Female
+1,40,Married,Some college,0,Hispanic,Female
+0,59,No longer married,College degree,0,White,Female
+1,38,Never married,Less than HS,1,White,Female
+0,26,Married,College degree,0,White,Female
+1,32,Never married,Less than HS,0,Black,Male
+1,30,Married,Some college,0,White,Female
+0,70,Married,Some college,0,White,Female
+1,47,Married,College degree,0,White,Female
+0,18,Never married,Less than HS,0,Black,Female
+1,61,No longer married,Some college,0,White,Female
+0,55,Married,Some college,0,Black,Female
+0,37,Married,Graduate degree,0,White,Male
+0,76,Married,Some college,0,White,Male
+0,62,Married,Some college,0,White,Female
+1,55,Married,Graduate degree,0,Other,Male
+1,28,Never married,Some college,0,White,Male
+0,70,Married,College degree,0,White,Female
+1,43,Married,Graduate degree,0,White,Female
+1,52,No longer married,Graduate degree,1,White,Female
+1,18,Never married,Less than HS,0,Hispanic,Female
+1,66,Married,Graduate degree,0,White,Male
+0,33,Married,College degree,1,Other,Female
+1,51,Married,College degree,1,White,Male
+1,31,Married,College degree,0,White,Male
+0,77,Married,Some college,0,White,Female
+0,46,No longer married,Some college,1,White,Female
+0,61,No longer married,HS diploma,0,White,Male
+1,66,Married,College degree,0,Black,Male
+1,64,Married,College degree,1,White,Female
+1,63,Married,Some college,0,Other,Male
+0,55,Married,Some college,1,White,Male
+1,45,Married,Graduate degree,0,White,Female
+1,59,Never married,College degree,0,White,Male
+1,42,No longer married,Some college,0,Black,Male
+0,47,Never married,HS diploma,0,White,Male
+1,63,Married,HS diploma,0,Other,Male
+1,57,Married,Some college,0,White,Male
+1,76,No longer married,Less than HS,0,Hispanic,Female
+0,63,Married,Some college,0,White,Female
+0,29,Married,College degree,0,White,Female
+0,75,No longer married,Some college,0,White,Female
+1,29,Never married,College degree,1,White,Female
+0,35,Married,HS diploma,0,White,Male
+1,62,Married,Some college,0,White,Female
+1,43,Married,Some college,1,White,Male
+0,35,Married,Graduate degree,0,White,Male
+0,72,Married,Some college,1,White,Male
+1,66,Married,Less than HS,0,Black,Male
+0,36,Married,Some college,0,White,Male
+1,89,Married,College degree,0,White,Male
+1,24,Never married,Graduate degree,0,Hispanic,Female
+1,48,Married,Some college,0,White,Female
+1,44,Never married,College degree,0,Black,Female
+1,23,Never married,College degree,0,Other,Female
+0,48,Married,College degree,0,White,Female
+1,58,Married,Graduate degree,0,White,Female
+0,62,No longer married,Some college,0,White,Male
+0,76,Married,College degree,0,White,Male
+0,67,Never married,Less than HS,0,White,Female
+0,70,Never married,Some college,0,White,Male
+1,33,Married,College degree,0,White,Female
+0,27,Married,College degree,0,White,Male
+1,67,Married,Some college,0,White,Male
+1,65,No longer married,College degree,0,White,Female
+0,39,Married,Some college,0,Other,Female
+0,57,Married,College degree,0,White,Female
+0,46,Married,Some college,0,Other,Male
+1,63,Married,Graduate degree,0,White,Male
+0,77,Married,Graduate degree,0,White,Male
+1,19,Never married,Some college,0,Black,Male
+1,36,Never married,College degree,0,Black,Male
+1,56,No longer married,Graduate degree,0,Other,Male
+1,43,No longer married,Some college,0,White,Male
+1,58,Married,College degree,0,Black,Female
+1,67,Married,HS diploma,0,White,Female
+0,57,Married,Some college,0,White,Male
+0,53,Married,College degree,1,Other,Male
+1,75,Married,Graduate degree,0,Hispanic,Male
+1,79,Married,Graduate degree,0,White,Male
+1,59,Married,Graduate degree,1,Other,Male
+1,32,Never married,Some college,0,Other,Female
+1,42,Never married,Some college,1,Hispanic,Female
+0,58,Never married,Graduate degree,1,White,Female
+1,31,Married,College degree,0,Black,Female
+0,41,Married,Graduate degree,0,Hispanic,Male
+1,54,Married,Graduate degree,0,Other,Female
+1,64,Married,HS diploma,0,White,Female
+1,52,No longer married,Some college,0,White,Female
+1,32,Never married,College degree,0,White,Male
+0,68,Married,Some college,0,White,Male
+1,46,No longer married,Some college,0,White,Male
+0,58,Married,Less than HS,0,White,Male
+1,40,Married,Some college,0,Hispanic,Female
+0,81,Married,Less than HS,0,White,Female
+1,34,Married,Graduate degree,0,Other,Male
+0,37,Married,Graduate degree,0,White,Female
+1,51,No longer married,Some college,0,White,Female
+1,50,No longer married,College degree,0,White,Male
+0,37,No longer married,College degree,0,White,Male
+0,55,No longer married,Some college,1,White,Female
+0,55,No longer married,HS diploma,0,Other,Female
+0,62,Married,Some college,0,White,Male
+0,72,Never married,HS diploma,0,White,Male
+1,53,No longer married,Some college,0,White,Female
+0,53,Married,HS diploma,0,White,Male
+1,51,Married,Graduate degree,1,Black,Male
+1,60,Married,Less than HS,0,Hispanic,Female
+1,68,No longer married,Less than HS,0,White,Female
+1,31,Married,Graduate degree,0,White,Male
+0,32,Married,Some college,0,Other,Female
+1,51,Married,Graduate degree,0,White,Male
+0,59,Never married,College degree,0,White,Female
+1,38,Married,HS diploma,0,Hispanic,Female
+1,75,No longer married,HS diploma,0,White,Male
+1,27,Never married,Some college,0,Black,Male
+1,42,No longer married,Graduate degree,0,Hispanic,Male
+0,64,Married,College degree,0,White,Male
+1,49,Never married,Some college,0,Other,Male
+1,78,Married,HS diploma,1,White,Female
+1,67,Married,College degree,0,White,Male
+0,52,Married,College degree,1,White,Female
+0,24,Married,Some college,0,White,Female
+1,78,Married,College degree,0,Hispanic,Female
+0,58,Married,Some college,0,White,Female
+1,88,No longer married,HS diploma,0,White,Female
+1,73,No longer married,Some college,0,Black,Female
+1,34,Never married,Graduate degree,0,White,Female
+1,72,No longer married,Some college,0,White,Female
+0,35,Married,Some college,0,White,Female
+1,47,Married,College degree,1,White,Female
+1,68,Never married,College degree,0,White,Male
+0,43,Married,College degree,0,White,Female
+0,60,No longer married,Some college,0,White,Female
+0,40,No longer married,College degree,0,White,Female
+1,60,Married,Graduate degree,0,White,Female
+0,32,Married,College degree,0,White,Male
+0,43,Married,College degree,0,White,Female
+0,63,No longer married,Some college,0,Other,Female
+0,56,Married,College degree,0,Other,Male
+0,66,Married,Some college,0,White,Male
+1,80,Married,Some college,0,White,Female
+1,56,No longer married,Some college,1,White,Female
+0,58,No longer married,Some college,0,White,Female
+0,62,No longer married,Less than HS,0,Other,Female
+0,61,Married,Some college,0,White,Male
+1,74,Married,Graduate degree,0,White,Female
+1,73,Married,Some college,0,White,Female
+1,39,Married,HS diploma,0,White,Female
+0,34,Married,Less than HS,0,Hispanic,Male
+1,53,Married,Less than HS,0,White,Male
+1,76,Married,HS diploma,1,White,Male
+1,68,Married,Graduate degree,0,Hispanic,Male
+0,35,Married,College degree,0,White,Male
+0,67,Married,Graduate degree,0,White,Male
+0,62,Married,College degree,1,White,Male
+0,60,No longer married,HS diploma,0,White,Female
+0,71,Married,College degree,0,White,Male
+1,59,Never married,Less than HS,1,Black,Male
+0,47,Married,College degree,1,White,Female
+0,76,No longer married,Graduate degree,0,White,Female
+0,51,No longer married,Some college,0,White,Female
+0,63,Married,Some college,0,White,Male
+1,61,Married,College degree,1,Other,Male
+1,31,Never married,Some college,0,Hispanic,Male
+0,39,Married,College degree,0,White,Female
+1,52,No longer married,Some college,0,Hispanic,Female
+1,57,Never married,Graduate degree,0,White,Female
+0,79,Married,College degree,0,White,Female
+0,80,Married,Some college,1,White,Female
+0,70,Married,Graduate degree,0,White,Female
+1,62,Married,HS diploma,0,Black,Male
+0,77,Married,College degree,0,White,Male
+0,77,Married,HS diploma,0,White,Female
+0,32,Married,College degree,0,White,Male
+1,43,Married,College degree,1,White,Female
+0,63,Married,College degree,0,White,Female
+0,82,No longer married,Graduate degree,0,White,Female
+1,49,Married,Less than HS,0,Hispanic,Male
+0,48,Married,College degree,0,Hispanic,Male
+1,27,Never married,Some college,0,Black,Male
+1,45,Never married,College degree,0,White,Female
+1,60,No longer married,College degree,1,Other,Female
+1,47,Married,HS diploma,1,Black,Male
+1,26,Married,Some college,0,Hispanic,Female
+1,57,Married,Some college,1,Black,Male
+1,37,Never married,Graduate degree,0,White,Male
+1,66,Married,HS diploma,0,White,Female
+1,65,Married,HS diploma,0,White,Female
+0,59,Married,HS diploma,0,White,Male
+1,69,Married,HS diploma,0,Other,Male
+0,69,Married,Some college,1,White,Male
+1,19,Never married,Some college,0,Hispanic,Male
+1,56,No longer married,Graduate degree,0,White,Female
+1,32,Married,HS diploma,0,Hispanic,Female
+0,61,Married,Graduate degree,0,White,Female
+1,68,Married,Graduate degree,1,White,Female
+0,46,No longer married,HS diploma,0,White,Female
+1,26,Never married,Some college,0,Black,Female
+0,46,No longer married,Some college,0,White,Male
+0,47,Never married,Some college,0,White,Male
+0,40,Never married,Some college,0,White,Male
+0,37,Married,Graduate degree,0,White,Female
+1,58,No longer married,Less than HS,0,Hispanic,Male
+1,54,Never married,College degree,0,White,Female
+1,39,Married,HS diploma,0,White,Male
+0,43,Never married,Graduate degree,0,White,Female
+1,20,Never married,HS diploma,0,Hispanic,Female
+1,26,Never married,College degree,0,White,Male
+1,59,Married,HS diploma,0,White,Female
+1,65,Married,Graduate degree,0,White,Male
+0,57,Married,HS diploma,1,White,Female
+1,24,Married,Some college,1,White,Male
+0,30,Never married,Some college,0,Hispanic,Female
+0,58,No longer married,Some college,0,Black,Female
+0,78,Never married,Some college,0,White,Female
+1,72,No longer married,College degree,0,White,Female
+1,55,Never married,HS diploma,0,White,Male
+1,47,Married,College degree,0,White,Male
+1,41,Married,Graduate degree,0,White,Female
+1,39,No longer married,HS diploma,0,Black,Female
+0,19,Never married,Some college,0,White,Male
+1,59,Married,Some college,0,Black,Male
+0,48,Married,College degree,0,White,Male
+0,80,Married,HS diploma,0,White,Male
+0,71,Married,Less than HS,0,White,Male
+1,53,Married,Some college,0,White,Male
+1,30,Never married,Some college,0,Black,Male
+1,60,Married,Graduate degree,0,Black,Male
+0,72,No longer married,Graduate degree,0,White,Male
+0,68,Married,Some college,0,White,Female
+0,55,No longer married,HS diploma,0,White,Male
+1,43,Married,College degree,0,White,Female
+0,31,Never married,Some college,0,White,Female
+0,54,Married,College degree,0,White,Male
+0,22,Married,HS diploma,0,White,Female
+1,65,Married,College degree,0,White,Male
+1,28,Never married,College degree,0,White,Male
+1,21,Never married,Some college,0,Black,Female
+0,63,Married,Some college,0,White,Female
+0,66,No longer married,HS diploma,0,White,Female
+1,42,Never married,HS diploma,0,Black,Male
+1,19,Never married,HS diploma,0,White,Male
+1,59,Never married,College degree,0,White,Female
+1,34,Married,College degree,0,White,Male
+0,27,Married,Some college,1,White,Male
+1,23,Never married,College degree,0,White,Male
+0,49,Married,Some college,0,White,Male
+1,65,Married,Graduate degree,0,White,Male
+1,33,Married,Graduate degree,1,White,Female
+1,58,Married,Some college,0,White,Female
+0,59,No longer married,Some college,0,White,Female
+1,44,No longer married,Graduate degree,1,White,Female
+1,65,No longer married,College degree,0,Black,Male
+0,56,Married,HS diploma,0,White,Female
+0,67,Married,Graduate degree,0,White,Female
+1,58,Never married,College degree,0,Black,Female
+1,37,No longer married,Less than HS,0,Black,Female
+0,27,Never married,Some college,1,White,Male
+1,30,Married,Some college,0,White,Female
+1,78,Married,Graduate degree,0,White,Male
+1,26,Never married,College degree,0,White,Male
+1,70,Married,Graduate degree,0,White,Male
+1,63,No longer married,Some college,0,White,Male
+0,67,Married,Some college,1,White,Female
+0,38,Married,Graduate degree,1,White,Female
+1,59,Married,College degree,0,White,Male
+1,86,No longer married,Less than HS,0,White,Female
+0,45,Married,Some college,0,White,Female
+1,63,No longer married,Some college,0,Black,Male
+0,41,Married,College degree,0,White,Female
+0,73,Married,Some college,0,White,Female
+1,55,No longer married,Less than HS,0,White,Male
+0,47,No longer married,Some college,0,White,Female
+0,69,No longer married,College degree,0,White,Male
+1,41,No longer married,Some college,0,Black,Female
+1,67,Married,Some college,0,Black,Female
+0,54,Married,College degree,0,White,Male
+0,52,Married,HS diploma,0,White,Male
+0,56,No longer married,Graduate degree,0,White,Female
+1,70,Married,Graduate degree,0,White,Male
+1,46,No longer married,HS diploma,0,Black,Female
+0,34,Married,Some college,0,White,Female
+0,73,Married,College degree,0,White,Male
+1,60,Married,College degree,0,White,Male
+0,58,No longer married,HS diploma,0,White,Female
+1,29,Never married,HS diploma,0,Hispanic,Male
+0,31,Never married,Some college,0,White,Female
+0,44,Married,College degree,0,White,Male
+0,61,Married,Some college,0,White,Male
+0,58,Married,HS diploma,0,White,Male
+1,40,Never married,College degree,0,White,Female
+0,61,Married,Some college,0,White,Female
+1,56,Never married,Graduate degree,0,Other,Female
+1,18,Never married,Some college,0,White,Male
+1,26,Never married,Some college,0,Other,Male
+1,59,No longer married,College degree,0,White,Female
+1,59,Married,HS diploma,0,White,Male
+1,38,No longer married,Some college,0,White,Female
+0,32,Never married,Some college,1,Black,Female
+0,45,Married,Some college,1,Other,Female
+1,20,Never married,Some college,0,White,Male
+0,46,Married,Graduate degree,0,White,Female
+1,58,Married,HS diploma,0,Hispanic,Female
+0,73,Married,Some college,1,White,Female
+0,39,Married,College degree,0,White,Female
+0,40,No longer married,Some college,0,White,Male
+1,67,Married,HS diploma,1,White,Male
+1,23,Married,HS diploma,0,Black,Male
+1,27,Never married,Some college,0,Black,Female
+1,55,Married,Graduate degree,0,White,Female
+1,54,Married,Some college,1,Black,Male
+1,36,Never married,Some college,0,Black,Female
+1,65,Married,Some college,0,White,Female
+1,66,Married,College degree,0,Other,Female
+1,45,Married,Graduate degree,1,White,Female
+0,77,Married,HS diploma,0,White,Female
+0,50,Married,College degree,0,White,Male
+1,28,Married,Less than HS,0,White,Female
+1,49,Married,Some college,0,White,Female
+0,70,Married,HS diploma,0,White,Male
+1,33,Never married,Some college,0,Hispanic,Female
+1,24,Never married,College degree,0,White,Female
+1,37,Married,College degree,0,White,Male
+1,50,Married,HS diploma,1,White,Male
+1,41,Never married,Some college,1,White,Male
+1,76,Married,Less than HS,0,Hispanic,Male
+1,26,Never married,Graduate degree,1,Black,Female
+1,71,Married,HS diploma,0,White,Male
+1,37,Never married,Graduate degree,0,White,Female
+0,54,Married,Some college,0,White,Female
+1,58,Married,Some college,0,White,Male
+0,40,Married,College degree,0,White,Female
+0,43,No longer married,Some college,0,White,Female
+0,72,No longer married,Some college,0,White,Female
+0,42,Married,Graduate degree,1,White,Female
+1,45,Married,Some college,1,Other,Male
+0,68,No longer married,College degree,0,White,Male
+1,43,Married,HS diploma,0,Hispanic,Female
+0,35,Never married,Some college,0,White,Male
+0,20,Married,Some college,0,Hispanic,Female
+0,48,Married,Some college,0,White,Female
+0,40,Married,Some college,0,White,Female
+0,64,No longer married,Some college,0,White,Male
+1,66,Married,Graduate degree,0,White,Female
+0,28,Never married,Some college,0,White,Female
+1,30,Never married,College degree,0,Other,Female
+0,56,No longer married,Some college,0,Other,Male
+1,43,Married,Graduate degree,0,White,Female
+1,66,Married,HS diploma,0,White,Male
+1,79,No longer married,Some college,0,Hispanic,Female
+1,81,Married,Graduate degree,0,White,Male
+1,58,Married,Graduate degree,1,Other,Female
+1,59,No longer married,Less than HS,1,White,Male
+1,67,No longer married,Some college,1,White,Male
+1,67,No longer married,Some college,0,Hispanic,Male
+1,70,Married,Graduate degree,0,White,Female
+1,20,Never married,Some college,0,White,Female
+1,26,No longer married,Some college,0,White,Female
+0,60,No longer married,College degree,0,White,Male
+1,43,Never married,HS diploma,0,White,Male
+0,61,Married,College degree,0,White,Male
+0,46,Married,College degree,0,White,Male
+1,40,Married,Some college,1,Hispanic,Female
+1,63,No longer married,Some college,0,White,Female
+1,61,No longer married,College degree,0,White,Female
+1,35,Never married,Some college,0,Other,Female
+0,19,Never married,Less than HS,0,White,Female
+1,47,No longer married,Some college,0,White,Male
+1,51,Married,Graduate degree,0,White,Male
+0,27,Never married,Some college,0,White,Female
+0,63,Married,College degree,0,White,Male
+1,29,Never married,College degree,0,White,Male
+1,31,Never married,Some college,0,White,Male
+1,18,Never married,Less than HS,0,Hispanic,Male
+1,60,Married,Some college,1,Black,Male
+0,34,Married,HS diploma,0,White,Male
+0,61,Married,Some college,0,White,Female
+0,80,No longer married,HS diploma,0,White,Male
+1,22,Never married,Some college,0,White,Female
+0,75,Married,College degree,0,White,Female
+1,52,Never married,Some college,0,Black,Male
+1,22,Never married,HS diploma,0,Black,Male
+0,39,No longer married,Graduate degree,0,Other,Female
+1,58,Married,Graduate degree,0,White,Female
+0,39,Married,Less than HS,0,White,Male
+0,57,Married,Some college,0,White,Female
+1,35,Married,Graduate degree,0,White,Female
+0,49,Married,Graduate degree,0,White,Female
+0,38,Married,Less than HS,0,Hispanic,Male
+1,63,No longer married,College degree,0,Black,Male
+0,57,Married,Some college,0,White,Male
+1,26,Never married,Some college,0,White,Female
+1,70,Married,College degree,0,White,Female
+0,33,Married,Some college,0,White,Female
+0,84,No longer married,Less than HS,0,White,Female
+1,24,Never married,College degree,0,White,Male
+1,60,Married,Some college,0,White,Male
+0,81,Married,Graduate degree,0,White,Male
+1,27,Never married,Some college,0,Other,Male
+0,41,No longer married,Some college,0,White,Male
+1,47,Married,Some college,0,Black,Female
+1,73,Married,Graduate degree,1,White,Male
+1,28,Never married,Graduate degree,0,Black,Male
+0,73,Married,Less than HS,0,White,Male
+1,43,No longer married,College degree,0,White,Male
+1,29,Never married,Graduate degree,0,Other,Male
+0,29,Married,College degree,0,White,Male
+1,72,No longer married,College degree,0,White,Female
+0,74,No longer married,College degree,0,White,Male
+0,22,Married,Some college,0,White,Female
+1,62,Married,Some college,0,Black,Male
+1,79,Married,Some college,1,White,Male
+1,58,Never married,Graduate degree,0,Black,Male
+1,59,No longer married,College degree,0,White,Female
+0,39,No longer married,Some college,1,White,Female
+0,47,Married,College degree,0,White,Male
+1,56,No longer married,Some college,1,White,Female
+1,24,Never married,HS diploma,0,White,Female
+1,69,Never married,Graduate degree,0,White,Female
+1,57,Married,Some college,1,White,Female
+0,72,Married,Graduate degree,0,White,Male
+0,29,Married,Some college,1,White,Male
+1,39,Married,Graduate degree,1,White,Female
+1,72,No longer married,Some college,0,Black,Female
+1,35,No longer married,Less than HS,0,Hispanic,Female
+0,64,Married,HS diploma,0,White,Male
+1,60,Married,Some college,0,White,Female
+0,24,Married,Some college,0,Hispanic,Female
+1,35,Married,College degree,0,White,Female
+0,68,Married,Less than HS,0,Hispanic,Male
+1,32,Married,College degree,0,Black,Female
+1,34,Married,Graduate degree,1,White,Male
+1,65,No longer married,Some college,0,White,Male
+0,35,Married,College degree,0,White,Female
+0,41,Married,HS diploma,0,White,Male
+0,60,Married,Some college,0,White,Female
+1,57,Never married,Some college,1,White,Male
+1,60,Married,Graduate degree,0,White,Female
+0,51,No longer married,Some college,0,White,Male
+0,61,No longer married,Some college,0,White,Female
+1,65,Married,Some college,0,White,Male
+0,66,No longer married,College degree,0,White,Male
+1,40,Married,Graduate degree,1,White,Female
+0,24,Never married,HS diploma,0,White,Female
+0,43,No longer married,Some college,0,White,Female
+0,73,Married,Some college,0,White,Female
+1,55,Married,Some college,1,Black,Male
+0,32,Married,Some college,0,White,Female
+0,55,Married,Some college,0,White,Male
+0,69,No longer married,Some college,0,White,Male
+0,45,Married,Some college,0,White,Female
+1,53,Never married,Graduate degree,1,White,Female
+1,55,Married,College degree,0,White,Male
+0,32,Never married,HS diploma,0,White,Male
+0,71,Married,Graduate degree,0,White,Male
+0,30,Married,HS diploma,0,White,Male
+0,86,Married,Some college,0,White,Male
+0,70,Married,Some college,0,White,Male
+0,43,Married,Some college,0,White,Male
+1,54,Married,College degree,0,White,Female
+1,47,Never married,HS diploma,1,Black,Female
+0,51,Married,Graduate degree,1,White,Female
+1,24,Never married,HS diploma,0,Hispanic,Male
+1,58,Married,Graduate degree,0,White,Female
+0,79,No longer married,Less than HS,0,White,Female
+0,47,Married,College degree,0,White,Male
+1,22,Never married,Some college,1,Hispanic,Female
+1,32,Married,College degree,0,White,Female
+1,53,No longer married,College degree,0,White,Female
+1,37,Never married,Some college,0,Other,Female
+1,38,Married,College degree,0,White,Male
+0,38,Married,HS diploma,0,White,Male
+1,23,Married,HS diploma,0,White,Female
+1,32,Never married,Some college,0,White,Female
+1,74,No longer married,Less than HS,0,Hispanic,Female
+1,53,No longer married,Some college,0,White,Male
+0,67,Married,Some college,0,White,Male
+1,28,Married,Graduate degree,0,White,Female
+1,43,Married,College degree,0,Other,Male
+0,28,Never married,Some college,0,White,Male
+1,21,Never married,Some college,0,White,Female
+1,59,Married,Graduate degree,0,White,Female
+0,49,No longer married,Some college,0,White,Female
+0,20,Never married,HS diploma,0,White,Female
+1,47,Never married,Some college,0,Black,Male
+1,45,No longer married,Some college,0,Black,Male
+0,85,No longer married,HS diploma,0,White,Female
+0,51,Married,Graduate degree,0,White,Female
+1,32,Married,Some college,0,White,Male
+1,68,Married,Some college,0,White,Male
+1,43,Never married,College degree,0,White,Male
+1,31,Married,Graduate degree,0,White,Male
+0,35,Never married,Some college,0,White,Male
+1,30,Married,College degree,0,White,Male
+1,45,Never married,Graduate degree,0,White,Female
+0,80,Married,Some college,0,White,Female
+0,44,Never married,Some college,0,White,Male
+0,39,Never married,Some college,1,White,Male
+0,56,Married,Less than HS,1,White,Male
+0,23,Never married,Some college,0,White,Female
+0,59,No longer married,HS diploma,0,White,Female
+0,25,Never married,HS diploma,0,White,Female
+1,54,No longer married,HS diploma,1,White,Male
+0,70,Married,Some college,0,White,Female
+0,52,Married,Graduate degree,0,Other,Male
+0,45,Married,Some college,0,White,Male
+0,59,Married,Some college,0,White,Female
+0,78,Married,Graduate degree,0,White,Male
+1,30,Never married,Graduate degree,0,Black,Female
+0,58,Married,Some college,0,White,Male
+0,61,Married,HS diploma,0,White,Male
+1,51,Married,Some college,0,White,Female
+1,22,Never married,Some college,1,White,Female
+0,33,Married,College degree,0,White,Female
+0,27,Married,HS diploma,0,White,Male
+1,64,Married,College degree,0,White,Male
+1,59,No longer married,Some college,0,Black,Female
+0,55,Married,College degree,0,White,Male
+0,42,No longer married,Some college,0,White,Female
+0,72,No longer married,HS diploma,0,White,Male
+0,37,Married,Some college,0,Hispanic,Male
+1,29,No longer married,Some college,0,White,Female
+0,32,Never married,Some college,0,White,Female
+1,41,Never married,HS diploma,0,Black,Male
+0,65,Married,Less than HS,0,White,Male
+0,77,Married,College degree,0,White,Male
+0,67,Married,College degree,0,Other,Male
+1,54,No longer married,Graduate degree,0,White,Female
+1,39,Married,HS diploma,0,White,Male
+0,20,Never married,Some college,0,White,Male
+1,41,Married,HS diploma,1,Hispanic,Male
+1,36,Married,College degree,0,Black,Female
+0,60,Married,Some college,0,White,Female
+0,60,Married,HS diploma,0,White,Female
+0,33,Married,College degree,0,White,Female
+1,56,Married,HS diploma,1,White,Female
+1,46,Never married,College degree,0,Black,Female
+0,67,No longer married,Some college,0,White,Female
+0,22,Never married,HS diploma,0,White,Male
+0,30,Married,College degree,0,White,Female
+0,63,Married,College degree,0,White,Female
+1,68,No longer married,HS diploma,0,White,Male
+0,75,Married,Some college,0,White,Male
+1,41,Married,Graduate degree,0,White,Female
+0,39,Married,College degree,0,White,Female
+0,64,No longer married,Graduate degree,0,White,Female
+1,36,Married,Some college,0,White,Female
+1,63,Married,College degree,0,Hispanic,Female
+1,67,Married,Graduate degree,1,White,Female
+0,61,No longer married,College degree,0,White,Male
+0,54,Married,Some college,0,White,Female
+0,64,Married,Some college,0,White,Male
+1,32,Married,College degree,0,White,Female
+0,69,Married,College degree,0,White,Male
+0,53,Married,Some college,0,White,Male
+0,75,Married,HS diploma,0,White,Male
+1,59,Married,College degree,1,White,Female
+1,68,No longer married,Less than HS,0,White,Female
+1,35,Married,Graduate degree,0,White,Female
+1,24,Never married,Less than HS,0,White,Male
+0,71,Married,HS diploma,0,White,Female
+0,72,No longer married,Some college,1,White,Male
+0,47,No longer married,Some college,0,White,Female
+1,44,Married,Graduate degree,0,White,Female
+1,69,Married,College degree,0,White,Male
+1,39,Never married,Some college,0,White,Female
+0,51,No longer married,College degree,0,White,Female
+0,45,Married,Some college,0,White,Female
+1,52,Married,College degree,0,White,Male
+1,61,Married,College degree,0,White,Female
+1,74,No longer married,Graduate degree,0,White,Female
+0,67,No longer married,College degree,0,White,Female
+1,64,No longer married,Graduate degree,0,Other,Male
+1,69,Married,Some college,0,White,Female
+1,53,Never married,Some college,0,Black,Female
+0,74,Married,College degree,0,White,Male
+1,47,No longer married,Graduate degree,0,White,Female
+1,34,Never married,Graduate degree,0,Black,Female
+0,44,Married,HS diploma,0,White,Male
+1,37,Never married,College degree,1,Hispanic,Female
+0,33,Married,Some college,1,White,Male
+1,49,Married,Graduate degree,0,White,Female
+0,48,No longer married,College degree,0,White,Male
+0,67,Never married,Some college,1,White,Male
+0,55,Never married,Some college,1,White,Male
+0,35,Married,Less than HS,0,Other,Male
+1,61,No longer married,HS diploma,0,Black,Female
+1,43,Married,Some college,0,Hispanic,Male
+0,23,Never married,Less than HS,1,Hispanic,Female
+0,58,Married,Some college,1,White,Male
+1,59,No longer married,Some college,0,White,Female
+0,65,No longer married,Some college,0,White,Female
+1,82,Married,College degree,1,White,Male
+0,36,No longer married,College degree,1,White,Female
+1,38,Married,Graduate degree,0,White,Female
+0,54,No longer married,HS diploma,0,White,Male
+1,26,Married,Some college,0,Hispanic,Female
+0,34,Married,Some college,0,White,Male
+1,49,Never married,College degree,1,White,Male
+1,42,No longer married,College degree,1,White,Female
+0,52,No longer married,HS diploma,0,White,Female
+1,21,Never married,Some college,0,Other,Male
+1,37,Married,College degree,0,White,Female
+0,82,Married,Less than HS,0,White,Male
+1,39,No longer married,Some college,0,Black,Female
+1,52,Married,College degree,0,White,Male
